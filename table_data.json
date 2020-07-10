@@ -13,6 +13,18 @@
 		]
 	},
 	{
+		"name":"FEMA",
+		"columns":[
+			"State",
+			"Event Type",
+			"Event Begin Date",
+			"Event End Date",
+			"Declaration Type",
+			"Declared Date",
+			"Declared County Area"
+		]
+	},
+	{
 		"name":"FREDS",
 		"columns":[
 			"State",
@@ -46,29 +58,51 @@
 	{
 		"name":"Earnin",
 		"columns":[
-			"Low Inc Earnings All Businesses",
-			"Low Inc Earnings in Different Sectors"
+			"Earnings received by low-income workers",
+			"Earnings received by low-income workers in Manufacturing Sector",
+			"Earnings received by low-income workers in Retail Trade",
+			"Earnings received by low-income workers in Transportation and Warehousing",
+			"Earnings received by low-income workers in Health Care and Social Assistance",
+			"Earnings received by low-income workers in Accommodation and Food Services"
 		]
 	},
 	{
 		"name":"Affinity Solutions",
 		"columns":[
-			"Spend All"
+			"Spending by all consumers living",
+			"spend in accomodation and food service",
+			"spend in arts, entertainment, and recreation",
+			"spend in general merchandise stores",
+			"spend in grocery and food store",
+			"spend in health care and social assistance",
+			"spend in transportation and warehousing",
+			"spend in ZIP codes with high median income",
+			"spend in ZIP codes with middle median income",
+			"spend in ZIP codes with low median income"
 		]
 	},
 	{
 		"name":"Homebase",
 		"columns":[
-			"Low Inc Emp All Businesses",
-			"Low Inc Emp All Businesses in Different Sectors"
+			"Employment Level Data for workers",
+			"Employment level for workers in Manufacturing Sector",
+			"Employment level for workers in Retail Trad",
+			"Employment level for workers in Transportation and Warehousing",
+			"Employment level for workers in Health Care and Social Assistance",
+			"Employment level for workers in Accommodation and Food Services"
 		]
 	},
 	{
 		"name":"Census",
 		"columns":[
 			"State Name",
+			"State FIPS",
+			"County FIPS",
 			"County Name",
-			"Population"
+			"Population",
+			"Age group",
+			"Total male population",
+			"Total female population ",
 
 		]
 	},
@@ -76,12 +110,15 @@
 		"name":"Department Of Labor(DOI)",
 		"columns":[
 			"Unemployment insurance Initial Claims ",
-			"Unemployment insurance Initial Claims Rate"
+			"Unemployment insurance Initial Claims Rate",
+			"Total Claims",
+			"Total Claims Rate"
+			
 		]
 		
 	},	
 	{
-		"name":"The New York Times",
+		"name":"John Hopkins",
 		"columns":[
 			"Case Rate",
 			"New Case Rate",
