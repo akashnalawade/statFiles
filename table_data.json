@@ -1,0 +1,94 @@
+{
+	
+	"website":[
+	{
+		"name":"NOAA",
+		"columns":[
+			"State",
+			"County",
+			"Year",
+			"Climate events",
+			"Events count",
+			"Loss"
+		]
+	},
+	{
+		"name":"FREDS",
+		"columns":[
+			"State",
+			"County",
+			"Year",
+			"Housing Price Index",
+			"Unemployment Rate",
+			"GDP"
+		]
+		
+	},
+	{
+		"name":"BLS",
+		"columns":[
+			"State",
+			"County",
+			"Year",
+			"BLS Industry",
+			"Employment Value"
+
+		]
+	},
+	{
+		"name":"NAICS",
+		"columns":[
+			"BLS Industry",
+			"NAICS Code",
+			"NAICS Industry"
+		]
+	},
+	{
+		"name":"Earnin",
+		"columns":[
+			"Low Inc Earnings All Businesses",
+			"Low Inc Earnings in Different Sectors"
+		]
+	},
+	{
+		"name":"Affinity Solutions",
+		"columns":[
+			"Spend All"
+		]
+	},
+	{
+		"name":"Homebase",
+		"columns":[
+			"Low Inc Emp All Businesses",
+			"Low Inc Emp All Businesses in Different Sectors"
+		]
+	},
+	{
+		"name":"Census",
+		"columns":[
+			"State Name",
+			"County Name",
+			"Population"
+
+		]
+	},
+	{
+		"name":"Department Of Labor(DOI)",
+		"columns":[
+			"Unemployment insurance Initial Claims ",
+			"Unemployment insurance Initial Claims Rate"
+		]
+		
+	},	
+	{
+		"name":"The New York Times",
+		"columns":[
+			"Case Rate",
+			"New Case Rate",
+			"Death Rate",
+			"New Death Rate"
+
+		]
+	}
+	]
+}
