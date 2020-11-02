@@ -1,0 +1,2027 @@
+[
+  {
+    "BEA_Code": 327910,
+    "Industry": "Abrasive product manufacturing",
+    "BEA-Industry": "327910-Abrasive product manufacturing"
+  },
+  {
+    "BEA_Code": 721000,
+    "Industry": "Accommodation",
+    "BEA-Industry": "721000-Accommodation"
+  },
+  {
+    "BEA_Code": 541200,
+    "Industry": "Accounting, tax preparation, bookkeeping, and payroll services",
+    "BEA-Industry": "541200-Accounting, tax preparation, bookkeeping, and payroll services"
+  },
+  {
+    "BEA_Code": 325520,
+    "Industry": "Adhesive manufacturing",
+    "BEA-Industry": "325520-Adhesive manufacturing"
+  },
+  {
+    "BEA_Code": 541800,
+    "Industry": "Advertising, public relations, and related services",
+    "BEA-Industry": "541800-Advertising, public relations, and related services"
+  },
+  {
+    "BEA_Code": 333912,
+    "Industry": "Air and gas compressor manufacturing",
+    "BEA-Industry": "333912-Air and gas compressor manufacturing"
+  },
+  {
+    "BEA_Code": 333415,
+    "Industry": "Air conditioning, refrigeration, and warm air heating equipment manufacturing",
+    "BEA-Industry": "333415-Air conditioning, refrigeration, and warm air heating equipment manufacturing"
+  },
+  {
+    "BEA_Code": 481000,
+    "Industry": "Air transportation",
+    "BEA-Industry": "481000-Air transportation"
+  },
+  {
+    "BEA_Code": 336412,
+    "Industry": "Aircraft engine and engine parts manufacturing",
+    "BEA-Industry": "336412-Aircraft engine and engine parts manufacturing"
+  },
+  {
+    "BEA_Code": 336411,
+    "Industry": "Aircraft manufacturing",
+    "BEA-Industry": "336411-Aircraft manufacturing"
+  },
+  {
+    "BEA_Code": "3259A0",
+    "Industry": "All other chemical product and preparation manufacturing",
+    "BEA-Industry": "3259A0-All other chemical product and preparation manufacturing"
+  },
+  {
+    "BEA_Code": 322299,
+    "Industry": "All other converted paper product manufacturing",
+    "BEA-Industry": "322299-All other converted paper product manufacturing"
+  },
+  {
+    "BEA_Code": "722A00",
+    "Industry": "All other food and drinking places",
+    "BEA-Industry": "722A00-All other food and drinking places"
+  },
+  {
+    "BEA_Code": 311990,
+    "Industry": "All other food manufacturing",
+    "BEA-Industry": "311990-All other food manufacturing"
+  },
+  {
+    "BEA_Code": "33211A",
+    "Industry": "All other forging, stamping, and sintering",
+    "BEA-Industry": "33211A-All other forging, stamping, and sintering"
+  },
+  {
+    "BEA_Code": 335999,
+    "Industry": "All other miscellaneous electrical equipment and component manufacturing",
+    "BEA-Industry": "335999-All other miscellaneous electrical equipment and component manufacturing"
+  },
+  {
+    "BEA_Code": 339990,
+    "Industry": "All other miscellaneous manufacturing",
+    "BEA-Industry": "339990-All other miscellaneous manufacturing"
+  },
+  {
+    "BEA_Code": "5419A0",
+    "Industry": "All other miscellaneous professional, scientific, and technical services",
+    "BEA-Industry": "5419A0-All other miscellaneous professional, scientific, and technical services"
+  },
+  {
+    "BEA_Code": "4B0000",
+    "Industry": "All other retail",
+    "BEA-Industry": "4B0000-All other retail"
+  },
+  {
+    "BEA_Code": 336999,
+    "Industry": "All other transportation equipment manufacturing",
+    "BEA-Industry": "336999-All other transportation equipment manufacturing"
+  },
+  {
+    "BEA_Code": "3219A0",
+    "Industry": "All other wood product manufacturing",
+    "BEA-Industry": "3219A0-All other wood product manufacturing"
+  },
+  {
+    "BEA_Code": 331313,
+    "Industry": "Alumina refining and primary aluminum production",
+    "BEA-Industry": "331313-Alumina refining and primary aluminum production"
+  },
+  {
+    "BEA_Code": "33131B",
+    "Industry": "Aluminum product manufacturing from purchased aluminum",
+    "BEA-Industry": "33131B-Aluminum product manufacturing from purchased aluminum"
+  },
+  {
+    "BEA_Code": "33299A",
+    "Industry": "Ammunition, arms, ordnance, and accessories manufacturing",
+    "BEA-Industry": "33299A-Ammunition, arms, ordnance, and accessories manufacturing"
+  },
+  {
+    "BEA_Code": 713100,
+    "Industry": "Amusement parks and arcades",
+    "BEA-Industry": "713100-Amusement parks and arcades"
+  },
+  {
+    "BEA_Code": 334516,
+    "Industry": "Analytical laboratory instrument manufacturing",
+    "BEA-Industry": "334516-Analytical laboratory instrument manufacturing"
+  },
+  {
+    "BEA_Code": "31161A",
+    "Industry": "Animal (except poultry) slaughtering, rendering, and processing",
+    "BEA-Industry": "31161A-Animal (except poultry) slaughtering, rendering, and processing"
+  },
+  {
+    "BEA_Code": "112A00",
+    "Industry": "Animal production, except cattle and poultry and eggs",
+    "BEA-Industry": "112A00-Animal production, except cattle and poultry and eggs"
+  },
+  {
+    "BEA_Code": 315000,
+    "Industry": "Apparel manufacturing",
+    "BEA-Industry": "315000-Apparel manufacturing"
+  },
+  {
+    "BEA_Code": 541300,
+    "Industry": "Architectural, engineering, and related services",
+    "BEA-Industry": "541300-Architectural, engineering, and related services"
+  },
+  {
+    "BEA_Code": 324121,
+    "Industry": "Asphalt paving mixture and block manufacturing",
+    "BEA-Industry": "324121-Asphalt paving mixture and block manufacturing"
+  },
+  {
+    "BEA_Code": 324122,
+    "Industry": "Asphalt shingle and coating materials manufacturing",
+    "BEA-Industry": "324122-Asphalt shingle and coating materials manufacturing"
+  },
+  {
+    "BEA_Code": 334300,
+    "Industry": "Audio and video equipment manufacturing",
+    "BEA-Industry": "334300-Audio and video equipment manufacturing"
+  },
+  {
+    "BEA_Code": 334512,
+    "Industry": "Automatic environmental control manufacturing",
+    "BEA-Industry": "334512-Automatic environmental control manufacturing"
+  },
+  {
+    "BEA_Code": 336111,
+    "Industry": "Automobile manufacturing",
+    "BEA-Industry": "336111-Automobile manufacturing"
+  },
+  {
+    "BEA_Code": 532100,
+    "Industry": "Automotive equipment rental and leasing",
+    "BEA-Industry": "532100-Automotive equipment rental and leasing"
+  },
+  {
+    "BEA_Code": 811100,
+    "Industry": "Automotive repair and maintenance",
+    "BEA-Industry": "811100-Automotive repair and maintenance"
+  },
+  {
+    "BEA_Code": 332991,
+    "Industry": "Ball and roller bearing manufacturing",
+    "BEA-Industry": "332991-Ball and roller bearing manufacturing"
+  },
+  {
+    "BEA_Code": "1121A0",
+    "Industry": "Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming",
+    "BEA-Industry": "1121A0-Beef cattle ranching and farming, including feedlots and dual-purpose ranching and farming"
+  },
+  {
+    "BEA_Code": 325414,
+    "Industry": "Biological product (except diagnostic) manufacturing",
+    "BEA-Industry": "325414-Biological product (except diagnostic) manufacturing"
+  },
+  {
+    "BEA_Code": 336612,
+    "Industry": "Boat building",
+    "BEA-Industry": "336612-Boat building"
+  },
+  {
+    "BEA_Code": 511130,
+    "Industry": "Book publishers",
+    "BEA-Industry": "511130-Book publishers"
+  },
+  {
+    "BEA_Code": 311810,
+    "Industry": "Bread and bakery product manufacturing",
+    "BEA-Industry": "311810-Bread and bakery product manufacturing"
+  },
+  {
+    "BEA_Code": 311230,
+    "Industry": "Breakfast cereal manufacturing",
+    "BEA-Industry": "311230-Breakfast cereal manufacturing"
+  },
+  {
+    "BEA_Code": 312120,
+    "Industry": "Breweries",
+    "BEA-Industry": "312120-Breweries"
+  },
+  {
+    "BEA_Code": 334220,
+    "Industry": "Broadcast and wireless communications equipment",
+    "BEA-Industry": "334220-Broadcast and wireless communications equipment"
+  },
+  {
+    "BEA_Code": 444000,
+    "Industry": "Building material and garden equipment and supplies dealers",
+    "BEA-Industry": "444000-Building material and garden equipment and supplies dealers"
+  },
+  {
+    "BEA_Code": 561400,
+    "Industry": "Business support services",
+    "BEA-Industry": "561400-Business support services"
+  },
+  {
+    "BEA_Code": 515200,
+    "Industry": "Cable and other subscription programming",
+    "BEA-Industry": "515200-Cable and other subscription programming"
+  },
+  {
+    "BEA_Code": 335991,
+    "Industry": "Carbon and graphite product manufacturing",
+    "BEA-Industry": "335991-Carbon and graphite product manufacturing"
+  },
+  {
+    "BEA_Code": 314110,
+    "Industry": "Carpet and rug mills",
+    "BEA-Industry": "314110-Carpet and rug mills"
+  },
+  {
+    "BEA_Code": 327310,
+    "Industry": "Cement manufacturing",
+    "BEA-Industry": "327310-Cement manufacturing"
+  },
+  {
+    "BEA_Code": 311513,
+    "Industry": "Cheese manufacturing",
+    "BEA-Industry": "311513-Cheese manufacturing"
+  },
+  {
+    "BEA_Code": 624400,
+    "Industry": "Child day care services",
+    "BEA-Industry": "624400-Child day care services"
+  },
+  {
+    "BEA_Code": "813B00",
+    "Industry": "Civic, social, professional, and similar organizations",
+    "BEA-Industry": "813B00-Civic, social, professional, and similar organizations"
+  },
+  {
+    "BEA_Code": 327100,
+    "Industry": "Clay product and refractory manufacturing",
+    "BEA-Industry": "327100-Clay product and refractory manufacturing"
+  },
+  {
+    "BEA_Code": 448000,
+    "Industry": "Clothing and clothing accessories stores",
+    "BEA-Industry": "448000-Clothing and clothing accessories stores"
+  },
+  {
+    "BEA_Code": 212100,
+    "Industry": "Coal mining",
+    "BEA-Industry": "212100-Coal mining"
+  },
+  {
+    "BEA_Code": 332800,
+    "Industry": "Coating, engraving, heat treating and allied activities",
+    "BEA-Industry": "332800-Coating, engraving, heat treating and allied activities"
+  },
+  {
+    "BEA_Code": 311920,
+    "Industry": "Coffee and tea manufacturing",
+    "BEA-Industry": "311920-Coffee and tea manufacturing"
+  },
+  {
+    "BEA_Code": 532400,
+    "Industry": "Commercial and industrial machinery and equipment rental and leasing",
+    "BEA-Industry": "532400-Commercial and industrial machinery and equipment rental and leasing"
+  },
+  {
+    "BEA_Code": 811300,
+    "Industry": "Commercial and industrial machinery and equipment repair and maintenance",
+    "BEA-Industry": "811300-Commercial and industrial machinery and equipment repair and maintenance"
+  },
+  {
+    "BEA_Code": 335920,
+    "Industry": "Communication and energy wire and cable manufacturing",
+    "BEA-Industry": "335920-Communication and energy wire and cable manufacturing"
+  },
+  {
+    "BEA_Code": "624A00",
+    "Industry": "Community food, housing, and other relief services, including rehabilitation services",
+    "BEA-Industry": "624A00-Community food, housing, and other relief services, including rehabilitation services"
+  },
+  {
+    "BEA_Code": 334112,
+    "Industry": "Computer storage device manufacturing",
+    "BEA-Industry": "334112-Computer storage device manufacturing"
+  },
+  {
+    "BEA_Code": 541512,
+    "Industry": "Computer systems design services",
+    "BEA-Industry": "541512-Computer systems design services"
+  },
+  {
+    "BEA_Code": 334118,
+    "Industry": "Computer terminals and other computer peripheral equipment manufacturing",
+    "BEA-Industry": "334118-Computer terminals and other computer peripheral equipment manufacturing"
+  },
+  {
+    "BEA_Code": 327330,
+    "Industry": "Concrete pipe, brick, and block manufacturing",
+    "BEA-Industry": "327330-Concrete pipe, brick, and block manufacturing"
+  },
+  {
+    "BEA_Code": 333120,
+    "Industry": "Construction machinery manufacturing",
+    "BEA-Industry": "333120-Construction machinery manufacturing"
+  },
+  {
+    "BEA_Code": "3118A0",
+    "Industry": "Cookie, cracker, pasta, and tortilla manufacturing",
+    "BEA-Industry": "3118A0-Cookie, cracker, pasta, and tortilla manufacturing"
+  },
+  {
+    "BEA_Code": 331420,
+    "Industry": "Copper rolling, drawing, extruding and alloying",
+    "BEA-Industry": "331420-Copper rolling, drawing, extruding and alloying"
+  },
+  {
+    "BEA_Code": 212230,
+    "Industry": "Copper, nickel, lead, and zinc mining",
+    "BEA-Industry": "212230-Copper, nickel, lead, and zinc mining"
+  },
+  {
+    "BEA_Code": 492000,
+    "Industry": "Couriers and messengers",
+    "BEA-Industry": "492000-Couriers and messengers"
+  },
+  {
+    "BEA_Code": 314120,
+    "Industry": "Curtain and linen mills",
+    "BEA-Industry": "314120-Curtain and linen mills"
+  },
+  {
+    "BEA_Code": 541511,
+    "Industry": "Custom computer programming services",
+    "BEA-Industry": "541511-Custom computer programming services"
+  },
+  {
+    "BEA_Code": 332114,
+    "Industry": "Custom roll forming",
+    "BEA-Industry": "332114-Custom roll forming"
+  },
+  {
+    "BEA_Code": "4200ID",
+    "Industry": "Customs duties",
+    "BEA-Industry": "4200ID-Customs duties"
+  },
+  {
+    "BEA_Code": 327991,
+    "Industry": "Cut stone and stone product manufacturing",
+    "BEA-Industry": "327991-Cut stone and stone product manufacturing"
+  },
+  {
+    "BEA_Code": 332200,
+    "Industry": "Cutlery and handtool manufacturing",
+    "BEA-Industry": "332200-Cutlery and handtool manufacturing"
+  },
+  {
+    "BEA_Code": "33351B",
+    "Industry": "Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing",
+    "BEA-Industry": "33351B-Cutting and machine tool accessory, rolling mill, and other metalworking machinery manufacturing"
+  },
+  {
+    "BEA_Code": 112120,
+    "Industry": "Dairy cattle and milk production",
+    "BEA-Industry": "112120-Dairy cattle and milk production"
+  },
+  {
+    "BEA_Code": 518200,
+    "Industry": "Data processing, hosting, and related services",
+    "BEA-Industry": "518200-Data processing, hosting, and related services"
+  },
+  {
+    "BEA_Code": 812200,
+    "Industry": "Death care services",
+    "BEA-Industry": "812200-Death care services"
+  },
+  {
+    "BEA_Code": 339114,
+    "Industry": "Dental equipment and supplies manufacturing",
+    "BEA-Industry": "339114-Dental equipment and supplies manufacturing"
+  },
+  {
+    "BEA_Code": 339116,
+    "Industry": "Dental laboratories",
+    "BEA-Industry": "339116-Dental laboratories"
+  },
+  {
+    "BEA_Code": 524113,
+    "Industry": "Direct life insurance carriers",
+    "BEA-Industry": "524113-Direct life insurance carriers"
+  },
+  {
+    "BEA_Code": "5111A0",
+    "Industry": "Directory, mailing list, and other publishers",
+    "BEA-Industry": "5111A0-Directory, mailing list, and other publishers"
+  },
+  {
+    "BEA_Code": 312140,
+    "Industry": "Distilleries",
+    "BEA-Industry": "312140-Distilleries"
+  },
+  {
+    "BEA_Code": 311111,
+    "Industry": "Dog and cat food manufacturing",
+    "BEA-Industry": "311111-Dog and cat food manufacturing"
+  },
+  {
+    "BEA_Code": 339930,
+    "Industry": "Doll, toy, and game manufacturing",
+    "BEA-Industry": "339930-Doll, toy, and game manufacturing"
+  },
+  {
+    "BEA_Code": 213111,
+    "Industry": "Drilling oil and gas wells",
+    "BEA-Industry": "213111-Drilling oil and gas wells"
+  },
+  {
+    "BEA_Code": 424200,
+    "Industry": "Drugs and druggistsâ€™ sundries",
+    "BEA-Industry": "424200-Drugs and druggistsâ€™ sundries"
+  },
+  {
+    "BEA_Code": 311514,
+    "Industry": "Dry, condensed, and evaporated dairy product manufacturing",
+    "BEA-Industry": "311514-Dry, condensed, and evaporated dairy product manufacturing"
+  },
+  {
+    "BEA_Code": 812300,
+    "Industry": "Dry-cleaning and laundry services",
+    "BEA-Industry": "812300-Dry-cleaning and laundry services"
+  },
+  {
+    "BEA_Code": 233262,
+    "Industry": "Educational and vocational structures",
+    "BEA-Industry": "233262-Educational and vocational structures"
+  },
+  {
+    "BEA_Code": 335110,
+    "Industry": "Electric lamp bulb and part manufacturing",
+    "BEA-Industry": "335110-Electric lamp bulb and part manufacturing"
+  },
+  {
+    "BEA_Code": 221100,
+    "Industry": "Electric power generation, transmission, and distribution",
+    "BEA-Industry": "221100-Electric power generation, transmission, and distribution"
+  },
+  {
+    "BEA_Code": 334515,
+    "Industry": "Electricity and signal testing instruments manufacturing",
+    "BEA-Industry": "334515-Electricity and signal testing instruments manufacturing"
+  },
+  {
+    "BEA_Code": 334510,
+    "Industry": "Electromedical and electrotherapeutic apparatus manufacturing",
+    "BEA-Industry": "334510-Electromedical and electrotherapeutic apparatus manufacturing"
+  },
+  {
+    "BEA_Code": 811200,
+    "Industry": "Electronic and precision equipment repair and maintenance",
+    "BEA-Industry": "811200-Electronic and precision equipment repair and maintenance"
+  },
+  {
+    "BEA_Code": 334111,
+    "Industry": "Electronic computer manufacturing",
+    "BEA-Industry": "334111-Electronic computer manufacturing"
+  },
+  {
+    "BEA_Code": 611100,
+    "Industry": "Elementary and secondary schools",
+    "BEA-Industry": "611100-Elementary and secondary schools"
+  },
+  {
+    "BEA_Code": 561300,
+    "Industry": "Employment services",
+    "BEA-Industry": "561300-Employment services"
+  },
+  {
+    "BEA_Code": "5416A0",
+    "Industry": "Environmental and other technical consulting services",
+    "BEA-Industry": "5416A0-Environmental and other technical consulting services"
+  },
+  {
+    "BEA_Code": 313200,
+    "Industry": "Fabric mills",
+    "BEA-Industry": "313200-Fabric mills"
+  },
+  {
+    "BEA_Code": 332996,
+    "Industry": "Fabricated pipe and pipe fitting manufacturing",
+    "BEA-Industry": "332996-Fabricated pipe and pipe fitting manufacturing"
+  },
+  {
+    "BEA_Code": 561200,
+    "Industry": "Facilities support services",
+    "BEA-Industry": "561200-Facilities support services"
+  },
+  {
+    "BEA_Code": 333111,
+    "Industry": "Farm machinery and equipment manufacturing",
+    "BEA-Industry": "333111-Farm machinery and equipment manufacturing"
+  },
+  {
+    "BEA_Code": 311225,
+    "Industry": "Fats and oils refining and blending",
+    "BEA-Industry": "311225-Fats and oils refining and blending"
+  },
+  {
+    "BEA_Code": "S00101",
+    "Industry": "Federal electric utilities",
+    "BEA-Industry": "S00101-Federal electric utilities"
+  },
+  {
+    "BEA_Code": "S00500",
+    "Industry": "Federal general government (defense)",
+    "BEA-Industry": "S00500-Federal general government (defense)"
+  },
+  {
+    "BEA_Code": "S00600",
+    "Industry": "Federal general government (nondefense)",
+    "BEA-Industry": "S00600-Federal general government (nondefense)"
+  },
+  {
+    "BEA_Code": 331510,
+    "Industry": "Ferrous metal foundries",
+    "BEA-Industry": "331510-Ferrous metal foundries"
+  },
+  {
+    "BEA_Code": 325310,
+    "Industry": "Fertilizer manufacturing",
+    "BEA-Industry": "325310-Fertilizer manufacturing"
+  },
+  {
+    "BEA_Code": 313100,
+    "Industry": "Fiber, yarn, and thread mills",
+    "BEA-Industry": "313100-Fiber, yarn, and thread mills"
+  },
+  {
+    "BEA_Code": 114000,
+    "Industry": "Fishing, hunting and trapping",
+    "BEA-Industry": "114000-Fishing, hunting and trapping"
+  },
+  {
+    "BEA_Code": 311930,
+    "Industry": "Flavoring syrup and concentrate manufacturing",
+    "BEA-Industry": "311930-Flavoring syrup and concentrate manufacturing"
+  },
+  {
+    "BEA_Code": 311210,
+    "Industry": "Flour milling and malt manufacturing",
+    "BEA-Industry": "311210-Flour milling and malt manufacturing"
+  },
+  {
+    "BEA_Code": "31151A",
+    "Industry": "Fluid milk and butter manufacturing",
+    "BEA-Industry": "31151A-Fluid milk and butter manufacturing"
+  },
+  {
+    "BEA_Code": "33399B",
+    "Industry": "Fluid power process machinery",
+    "BEA-Industry": "33399B-Fluid power process machinery"
+  },
+  {
+    "BEA_Code": 445000,
+    "Industry": "Food and beverage stores",
+    "BEA-Industry": "445000-Food and beverage stores"
+  },
+  {
+    "BEA_Code": 113000,
+    "Industry": "Forestry and logging",
+    "BEA-Industry": "113000-Forestry and logging"
+  },
+  {
+    "BEA_Code": 311410,
+    "Industry": "Frozen food manufacturing",
+    "BEA-Industry": "311410-Frozen food manufacturing"
+  },
+  {
+    "BEA_Code": 111300,
+    "Industry": "Fruit and tree nut farming",
+    "BEA-Industry": "111300-Fruit and tree nut farming"
+  },
+  {
+    "BEA_Code": 311420,
+    "Industry": "Fruit and vegetable canning, pickling, and drying",
+    "BEA-Industry": "311420-Fruit and vegetable canning, pickling, and drying"
+  },
+  {
+    "BEA_Code": 722110,
+    "Industry": "Full-service restaurants",
+    "BEA-Industry": "722110-Full-service restaurants"
+  },
+  {
+    "BEA_Code": 525000,
+    "Industry": "Funds, trusts, and other financial vehicles",
+    "BEA-Industry": "525000-Funds, trusts, and other financial vehicles"
+  },
+  {
+    "BEA_Code": 713200,
+    "Industry": "Gambling industries (except casino hotels)",
+    "BEA-Industry": "713200-Gambling industries (except casino hotels)"
+  },
+  {
+    "BEA_Code": 447000,
+    "Industry": "Gasoline stations",
+    "BEA-Industry": "447000-Gasoline stations"
+  },
+  {
+    "BEA_Code": "532A00",
+    "Industry": "General and consumer goods rental",
+    "BEA-Industry": "532A00-General and consumer goods rental"
+  },
+  {
+    "BEA_Code": 452000,
+    "Industry": "General merchandise stores",
+    "BEA-Industry": "452000-General merchandise stores"
+  },
+  {
+    "BEA_Code": 327200,
+    "Industry": "Glass and glass product manufacturing",
+    "BEA-Industry": "327200-Glass and glass product manufacturing"
+  },
+  {
+    "BEA_Code": "1111B0",
+    "Industry": "Grain farming",
+    "BEA-Industry": "1111B0-Grain farming"
+  },
+  {
+    "BEA_Code": "813A00",
+    "Industry": "Grantmaking, giving, and social advocacy organizations",
+    "BEA-Industry": "813A00-Grantmaking, giving, and social advocacy organizations"
+  },
+  {
+    "BEA_Code": 111400,
+    "Industry": "Greenhouse, nursery, and floriculture production",
+    "BEA-Industry": "111400-Greenhouse, nursery, and floriculture production"
+  },
+  {
+    "BEA_Code": 424400,
+    "Industry": "Grocery and related product wholesalers",
+    "BEA-Industry": "424400-Grocery and related product wholesalers"
+  },
+  {
+    "BEA_Code": 327992,
+    "Industry": "Ground or treated mineral and earth manufacturing",
+    "BEA-Industry": "327992-Ground or treated mineral and earth manufacturing"
+  },
+  {
+    "BEA_Code": 336414,
+    "Industry": "Guided missile and space vehicle manufacturing",
+    "BEA-Industry": "336414-Guided missile and space vehicle manufacturing"
+  },
+  {
+    "BEA_Code": 332500,
+    "Industry": "Hardware manufacturing",
+    "BEA-Industry": "332500-Hardware manufacturing"
+  },
+  {
+    "BEA_Code": 446000,
+    "Industry": "Health and personal care stores",
+    "BEA-Industry": "446000-Health and personal care stores"
+  },
+  {
+    "BEA_Code": 233210,
+    "Industry": "Health care structures",
+    "BEA-Industry": "233210-Health care structures"
+  },
+  {
+    "BEA_Code": 333414,
+    "Industry": "Heating equipment (except warm air furnaces) manufacturing",
+    "BEA-Industry": "333414-Heating equipment (except warm air furnaces) manufacturing"
+  },
+  {
+    "BEA_Code": 336120,
+    "Industry": "Heavy duty truck manufacturing",
+    "BEA-Industry": "336120-Heavy duty truck manufacturing"
+  },
+  {
+    "BEA_Code": 621600,
+    "Industry": "Home health care services",
+    "BEA-Industry": "621600-Home health care services"
+  },
+  {
+    "BEA_Code": 622000,
+    "Industry": "Hospitals",
+    "BEA-Industry": "622000-Hospitals"
+  },
+  {
+    "BEA_Code": 423600,
+    "Industry": "Household appliances and electrical and electronic goods",
+    "BEA-Industry": "423600-Household appliances and electrical and electronic goods"
+  },
+  {
+    "BEA_Code": 335221,
+    "Industry": "Household cooking appliance manufacturing",
+    "BEA-Industry": "335221-Household cooking appliance manufacturing"
+  },
+  {
+    "BEA_Code": 335224,
+    "Industry": "Household laundry equipment manufacturing",
+    "BEA-Industry": "335224-Household laundry equipment manufacturing"
+  },
+  {
+    "BEA_Code": 335222,
+    "Industry": "Household refrigerator and home freezer manufacturing",
+    "BEA-Industry": "335222-Household refrigerator and home freezer manufacturing"
+  },
+  {
+    "BEA_Code": 311520,
+    "Industry": "Ice cream and frozen dessert manufacturing",
+    "BEA-Industry": "311520-Ice cream and frozen dessert manufacturing"
+  },
+  {
+    "BEA_Code": 711500,
+    "Industry": "Independent artists, writers, and performers",
+    "BEA-Industry": "711500-Independent artists, writers, and performers"
+  },
+  {
+    "BEA_Code": 624100,
+    "Industry": "Individual and family services",
+    "BEA-Industry": "624100-Individual and family services"
+  },
+  {
+    "BEA_Code": 333413,
+    "Industry": "Industrial and commercial fan and blower and air purification equipment manufacturing",
+    "BEA-Industry": "333413-Industrial and commercial fan and blower and air purification equipment manufacturing"
+  },
+  {
+    "BEA_Code": 325120,
+    "Industry": "Industrial gas manufacturing",
+    "BEA-Industry": "325120-Industrial gas manufacturing"
+  },
+  {
+    "BEA_Code": 333511,
+    "Industry": "Industrial mold manufacturing",
+    "BEA-Industry": "333511-Industrial mold manufacturing"
+  },
+  {
+    "BEA_Code": 333994,
+    "Industry": "Industrial process furnace and oven manufacturing",
+    "BEA-Industry": "333994-Industrial process furnace and oven manufacturing"
+  },
+  {
+    "BEA_Code": 334513,
+    "Industry": "Industrial process variable instruments manufacturing",
+    "BEA-Industry": "334513-Industrial process variable instruments manufacturing"
+  },
+  {
+    "BEA_Code": 337127,
+    "Industry": "Institutional furniture manufacturing",
+    "BEA-Industry": "337127-Institutional furniture manufacturing"
+  },
+  {
+    "BEA_Code": 524200,
+    "Industry": "Insurance agencies, brokerages, and related activities",
+    "BEA-Industry": "524200-Insurance agencies, brokerages, and related activities"
+  },
+  {
+    "BEA_Code": "5241XX",
+    "Industry": "Insurance carriers, except direct life",
+    "BEA-Industry": "5241XX-Insurance carriers, except direct life"
+  },
+  {
+    "BEA_Code": 519130,
+    "Industry": "Internet publishing and broadcasting and Web search portals",
+    "BEA-Industry": "519130-Internet publishing and broadcasting and Web search portals"
+  },
+  {
+    "BEA_Code": 561600,
+    "Industry": "Investigation and security services",
+    "BEA-Industry": "561600-Investigation and security services"
+  },
+  {
+    "BEA_Code": 325413,
+    "Industry": "In-vitro diagnostic substance manufacturing",
+    "BEA-Industry": "325413-In-vitro diagnostic substance manufacturing"
+  },
+  {
+    "BEA_Code": 331110,
+    "Industry": "Iron and steel mills and ferroalloy manufacturing",
+    "BEA-Industry": "331110-Iron and steel mills and ferroalloy manufacturing"
+  },
+  {
+    "BEA_Code": "2122A0",
+    "Industry": "Iron, gold, silver, and other metal ore mining",
+    "BEA-Industry": "2122A0-Iron, gold, silver, and other metal ore mining"
+  },
+  {
+    "BEA_Code": 334517,
+    "Industry": "Irradiation apparatus manufacturing",
+    "BEA-Industry": "334517-Irradiation apparatus manufacturing"
+  },
+  {
+    "BEA_Code": 339910,
+    "Industry": "Jewelry and silverware manufacturing",
+    "BEA-Industry": "339910-Jewelry and silverware manufacturing"
+  },
+  {
+    "BEA_Code": "611A00",
+    "Industry": "Junior colleges, colleges, universities, and professional schools",
+    "BEA-Industry": "611A00-Junior colleges, colleges, universities, and professional schools"
+  },
+  {
+    "BEA_Code": 326130,
+    "Industry": "Laminated plastics plate, sheet (except packaging), and shape manufacturing",
+    "BEA-Industry": "326130-Laminated plastics plate, sheet (except packaging), and shape manufacturing"
+  },
+  {
+    "BEA_Code": 333112,
+    "Industry": "Lawn and garden equipment manufacturing",
+    "BEA-Industry": "333112-Lawn and garden equipment manufacturing"
+  },
+  {
+    "BEA_Code": 316000,
+    "Industry": "Leather and allied product manufacturing",
+    "BEA-Industry": "316000-Leather and allied product manufacturing"
+  },
+  {
+    "BEA_Code": 541100,
+    "Industry": "Legal services",
+    "BEA-Industry": "541100-Legal services"
+  },
+  {
+    "BEA_Code": 533000,
+    "Industry": "Lessors of nonfinancial intangible assets",
+    "BEA-Industry": "533000-Lessors of nonfinancial intangible assets"
+  },
+  {
+    "BEA_Code": 336112,
+    "Industry": "Light truck and utility vehicle manufacturing",
+    "BEA-Industry": "336112-Light truck and utility vehicle manufacturing"
+  },
+  {
+    "BEA_Code": 335120,
+    "Industry": "Lighting fixture manufacturing",
+    "BEA-Industry": "335120-Lighting fixture manufacturing"
+  },
+  {
+    "BEA_Code": 327400,
+    "Industry": "Lime and gypsum product manufacturing",
+    "BEA-Industry": "327400-Lime and gypsum product manufacturing"
+  },
+  {
+    "BEA_Code": 722211,
+    "Industry": "Limited-service restaurants",
+    "BEA-Industry": "722211-Limited-service restaurants"
+  },
+  {
+    "BEA_Code": 332710,
+    "Industry": "Machine shops",
+    "BEA-Industry": "332710-Machine shops"
+  },
+  {
+    "BEA_Code": 333517,
+    "Industry": "Machine tool manufacturing",
+    "BEA-Industry": "333517-Machine tool manufacturing"
+  },
+  {
+    "BEA_Code": 423800,
+    "Industry": "Machinery, equipment, and supplies",
+    "BEA-Industry": "423800-Machinery, equipment, and supplies"
+  },
+  {
+    "BEA_Code": 541610,
+    "Industry": "Management consulting services",
+    "BEA-Industry": "541610-Management consulting services"
+  },
+  {
+    "BEA_Code": 550000,
+    "Industry": "Management of companies and enterprises",
+    "BEA-Industry": "550000-Management of companies and enterprises"
+  },
+  {
+    "BEA_Code": 334610,
+    "Industry": "Manufacturing and reproducing magnetic and optical media",
+    "BEA-Industry": "334610-Manufacturing and reproducing magnetic and optical media"
+  },
+  {
+    "BEA_Code": 233230,
+    "Industry": "Manufacturing structures",
+    "BEA-Industry": "233230-Manufacturing structures"
+  },
+  {
+    "BEA_Code": 333920,
+    "Industry": "Material handling equipment manufacturing",
+    "BEA-Industry": "333920-Material handling equipment manufacturing"
+  },
+  {
+    "BEA_Code": 333613,
+    "Industry": "Mechanical power transmission equipment manufacturing",
+    "BEA-Industry": "333613-Mechanical power transmission equipment manufacturing"
+  },
+  {
+    "BEA_Code": 621500,
+    "Industry": "Medical and diagnostic laboratories",
+    "BEA-Industry": "621500-Medical and diagnostic laboratories"
+  },
+  {
+    "BEA_Code": 325411,
+    "Industry": "Medicinal and botanical manufacturing",
+    "BEA-Industry": "325411-Medicinal and botanical manufacturing"
+  },
+  {
+    "BEA_Code": 332430,
+    "Industry": "Metal can, box, and other metal container (light gauge) manufacturing",
+    "BEA-Industry": "332430-Metal can, box, and other metal container (light gauge) manufacturing"
+  },
+  {
+    "BEA_Code": 332119,
+    "Industry": "Metal crown, closure, and other metal stamping (except automotive)",
+    "BEA-Industry": "332119-Metal crown, closure, and other metal stamping (except automotive)"
+  },
+  {
+    "BEA_Code": 332420,
+    "Industry": "Metal tank (heavy gauge) manufacturing",
+    "BEA-Industry": "332420-Metal tank (heavy gauge) manufacturing"
+  },
+  {
+    "BEA_Code": 336992,
+    "Industry": "Military armored vehicle, tank, and tank component manufacturing",
+    "BEA-Industry": "336992-Military armored vehicle, tank, and tank component manufacturing"
+  },
+  {
+    "BEA_Code": 321910,
+    "Industry": "Millwork",
+    "BEA-Industry": "321910-Millwork"
+  },
+  {
+    "BEA_Code": 327993,
+    "Industry": "Mineral wool manufacturing",
+    "BEA-Industry": "327993-Mineral wool manufacturing"
+  },
+  {
+    "BEA_Code": 333130,
+    "Industry": "Mining and oil and gas field machinery manufacturing",
+    "BEA-Industry": "333130-Mining and oil and gas field machinery manufacturing"
+  },
+  {
+    "BEA_Code": 327999,
+    "Industry": "Miscellaneous nonmetallic mineral products",
+    "BEA-Industry": "327999-Miscellaneous nonmetallic mineral products"
+  },
+  {
+    "BEA_Code": "52A000",
+    "Industry": "Monetary authorities and depository credit intermediation",
+    "BEA-Industry": "52A000-Monetary authorities and depository credit intermediation"
+  },
+  {
+    "BEA_Code": 512100,
+    "Industry": "Motion picture and video industries",
+    "BEA-Industry": "512100-Motion picture and video industries"
+  },
+  {
+    "BEA_Code": 335312,
+    "Industry": "Motor and generator manufacturing",
+    "BEA-Industry": "335312-Motor and generator manufacturing"
+  },
+  {
+    "BEA_Code": 336213,
+    "Industry": "Motor home manufacturing",
+    "BEA-Industry": "336213-Motor home manufacturing"
+  },
+  {
+    "BEA_Code": 423100,
+    "Industry": "Motor vehicle and motor vehicle parts and supplies",
+    "BEA-Industry": "423100-Motor vehicle and motor vehicle parts and supplies"
+  },
+  {
+    "BEA_Code": 441000,
+    "Industry": "Motor vehicle and parts dealers",
+    "BEA-Industry": "441000-Motor vehicle and parts dealers"
+  },
+  {
+    "BEA_Code": 336211,
+    "Industry": "Motor vehicle body manufacturing",
+    "BEA-Industry": "336211-Motor vehicle body manufacturing"
+  },
+  {
+    "BEA_Code": 336320,
+    "Industry": "Motor vehicle electrical and electronic equipment manufacturing",
+    "BEA-Industry": "336320-Motor vehicle electrical and electronic equipment manufacturing"
+  },
+  {
+    "BEA_Code": 336310,
+    "Industry": "Motor vehicle gasoline engine and engine parts manufacturing",
+    "BEA-Industry": "336310-Motor vehicle gasoline engine and engine parts manufacturing"
+  },
+  {
+    "BEA_Code": 336370,
+    "Industry": "Motor vehicle metal stamping",
+    "BEA-Industry": "336370-Motor vehicle metal stamping"
+  },
+  {
+    "BEA_Code": 336360,
+    "Industry": "Motor vehicle seating and interior trim manufacturing",
+    "BEA-Industry": "336360-Motor vehicle seating and interior trim manufacturing"
+  },
+  {
+    "BEA_Code": "3363A0",
+    "Industry": "Motor vehicle steering, suspension component (except spring), and brake systems manufacturing",
+    "BEA-Industry": "3363A0-Motor vehicle steering, suspension component (except spring), and brake systems manufacturing"
+  },
+  {
+    "BEA_Code": 336350,
+    "Industry": "Motor vehicle transmission and power train parts manufacturing",
+    "BEA-Industry": "336350-Motor vehicle transmission and power train parts manufacturing"
+  },
+  {
+    "BEA_Code": 336991,
+    "Industry": "Motorcycle, bicycle, and parts manufacturing",
+    "BEA-Industry": "336991-Motorcycle, bicycle, and parts manufacturing"
+  },
+  {
+    "BEA_Code": 233412,
+    "Industry": "Multifamily residential structures",
+    "BEA-Industry": "233412-Multifamily residential structures"
+  },
+  {
+    "BEA_Code": 712000,
+    "Industry": "Museums, historical sites, zoos, and parks",
+    "BEA-Industry": "712000-Museums, historical sites, zoos, and parks"
+  },
+  {
+    "BEA_Code": 221200,
+    "Industry": "Natural gas distribution",
+    "BEA-Industry": "221200-Natural gas distribution"
+  },
+  {
+    "BEA_Code": "5191A0",
+    "Industry": "News syndicates, libraries, archives and all other information services",
+    "BEA-Industry": "5191A0-News syndicates, libraries, archives and all other information services"
+  },
+  {
+    "BEA_Code": 511110,
+    "Industry": "Newspaper publishers",
+    "BEA-Industry": "511110-Newspaper publishers"
+  },
+  {
+    "BEA_Code": "522A00",
+    "Industry": "Nondepository credit intermediation and related activities",
+    "BEA-Industry": "522A00-Nondepository credit intermediation and related activities"
+  },
+  {
+    "BEA_Code": 331410,
+    "Industry": "Nonferrous Metal (except Aluminum) Smelting and Refining",
+    "BEA-Industry": "331410-Nonferrous Metal (except Aluminum) Smelting and Refining"
+  },
+  {
+    "BEA_Code": 331490,
+    "Industry": "Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying",
+    "BEA-Industry": "331490-Nonferrous metal (except copper and aluminum) rolling, drawing, extruding and alloying"
+  },
+  {
+    "BEA_Code": 331520,
+    "Industry": "Nonferrous metal foundries",
+    "BEA-Industry": "331520-Nonferrous metal foundries"
+  },
+  {
+    "BEA_Code": 230301,
+    "Industry": "Nonresidential maintenance and repair",
+    "BEA-Industry": "230301-Nonresidential maintenance and repair"
+  },
+  {
+    "BEA_Code": 454000,
+    "Industry": "Nonstore retailers",
+    "BEA-Industry": "454000-Nonstore retailers"
+  },
+  {
+    "BEA_Code": 337122,
+    "Industry": "Nonupholstered wood household furniture manufacturing",
+    "BEA-Industry": "337122-Nonupholstered wood household furniture manufacturing"
+  },
+  {
+    "BEA_Code": "623A00",
+    "Industry": "Nursing and community care facilities",
+    "BEA-Industry": "623A00-Nursing and community care facilities"
+  },
+  {
+    "BEA_Code": 561100,
+    "Industry": "Office administrative services",
+    "BEA-Industry": "561100-Office administrative services"
+  },
+  {
+    "BEA_Code": "2332A0",
+    "Industry": "Office and commercial structures",
+    "BEA-Industry": "2332A0-Office and commercial structures"
+  },
+  {
+    "BEA_Code": "33721A",
+    "Industry": "Office furniture and custom architectural woodwork and millwork manufacturing",
+    "BEA-Industry": "33721A-Office furniture and custom architectural woodwork and millwork manufacturing"
+  },
+  {
+    "BEA_Code": 339940,
+    "Industry": "Office supplies (except paper) manufacturing",
+    "BEA-Industry": "339940-Office supplies (except paper) manufacturing"
+  },
+  {
+    "BEA_Code": 621200,
+    "Industry": "Offices of dentists",
+    "BEA-Industry": "621200-Offices of dentists"
+  },
+  {
+    "BEA_Code": 621300,
+    "Industry": "Offices of other health practitioners",
+    "BEA-Industry": "621300-Offices of other health practitioners"
+  },
+  {
+    "BEA_Code": 621100,
+    "Industry": "Offices of physicians",
+    "BEA-Industry": "621100-Offices of physicians"
+  },
+  {
+    "BEA_Code": 211000,
+    "Industry": "Oil and gas extraction",
+    "BEA-Industry": "211000-Oil and gas extraction"
+  },
+  {
+    "BEA_Code": "1111A0",
+    "Industry": "Oilseed farming",
+    "BEA-Industry": "1111A0-Oilseed farming"
+  },
+  {
+    "BEA_Code": 339115,
+    "Industry": "Ophthalmic goods manufacturing",
+    "BEA-Industry": "339115-Ophthalmic goods manufacturing"
+  },
+  {
+    "BEA_Code": 333314,
+    "Industry": "Optical instrument and lens manufacturing",
+    "BEA-Industry": "333314-Optical instrument and lens manufacturing"
+  },
+  {
+    "BEA_Code": 332320,
+    "Industry": "Ornamental and architectural metal products manufacturing",
+    "BEA-Industry": "332320-Ornamental and architectural metal products manufacturing"
+  },
+  {
+    "BEA_Code": 336413,
+    "Industry": "Other aircraft parts and auxiliary equipment manufacturing",
+    "BEA-Industry": "336413-Other aircraft parts and auxiliary equipment manufacturing"
+  },
+  {
+    "BEA_Code": 621900,
+    "Industry": "Other ambulatory health care services",
+    "BEA-Industry": "621900-Other ambulatory health care services"
+  },
+  {
+    "BEA_Code": 713900,
+    "Industry": "Other amusement and recreation industries",
+    "BEA-Industry": "713900-Other amusement and recreation industries"
+  },
+  {
+    "BEA_Code": 311119,
+    "Industry": "Other animal food manufacturing",
+    "BEA-Industry": "311119-Other animal food manufacturing"
+  },
+  {
+    "BEA_Code": 325180,
+    "Industry": "Other Basic Inorganic Chemical Manufacturing",
+    "BEA-Industry": "325180-Other Basic Inorganic Chemical Manufacturing"
+  },
+  {
+    "BEA_Code": 325190,
+    "Industry": "Other basic organic chemical manufacturing",
+    "BEA-Industry": "325190-Other basic organic chemical manufacturing"
+  },
+  {
+    "BEA_Code": 333318,
+    "Industry": "Other commercial and service industry machinery manufacturing",
+    "BEA-Industry": "333318-Other commercial and service industry machinery manufacturing"
+  },
+  {
+    "BEA_Code": 334290,
+    "Industry": "Other communications equipment manufacturing",
+    "BEA-Industry": "334290-Other communications equipment manufacturing"
+  },
+  {
+    "BEA_Code": "54151A",
+    "Industry": "Other computer related services, including facilities management",
+    "BEA-Industry": "54151A-Other computer related services, including facilities management"
+  },
+  {
+    "BEA_Code": 327390,
+    "Industry": "Other concrete product manufacturing",
+    "BEA-Industry": "327390-Other concrete product manufacturing"
+  },
+  {
+    "BEA_Code": 111900,
+    "Industry": "Other crop farming",
+    "BEA-Industry": "111900-Other crop farming"
+  },
+  {
+    "BEA_Code": "423A00",
+    "Industry": "Other durable goods merchant wholesalers",
+    "BEA-Industry": "423A00-Other durable goods merchant wholesalers"
+  },
+  {
+    "BEA_Code": "611B00",
+    "Industry": "Other educational services",
+    "BEA-Industry": "611B00-Other educational services"
+  },
+  {
+    "BEA_Code": "33441A",
+    "Industry": "Other electronic component manufacturing",
+    "BEA-Industry": "33441A-Other electronic component manufacturing"
+  },
+  {
+    "BEA_Code": 333618,
+    "Industry": "Other engine equipment manufacturing",
+    "BEA-Industry": "333618-Other engine equipment manufacturing"
+  },
+  {
+    "BEA_Code": 332999,
+    "Industry": "Other fabricated metal manufacturing",
+    "BEA-Industry": "332999-Other fabricated metal manufacturing"
+  },
+  {
+    "BEA_Code": "S00102",
+    "Industry": "Other federal government enterprises",
+    "BEA-Industry": "S00102-Other federal government enterprises"
+  },
+  {
+    "BEA_Code": 523900,
+    "Industry": "Other financial investment activities",
+    "BEA-Industry": "523900-Other financial investment activities"
+  },
+  {
+    "BEA_Code": 337900,
+    "Industry": "Other furniture related product manufacturing",
+    "BEA-Industry": "337900-Other furniture related product manufacturing"
+  },
+  {
+    "BEA_Code": "33399A",
+    "Industry": "Other general purpose machinery manufacturing",
+    "BEA-Industry": "33399A-Other general purpose machinery manufacturing"
+  },
+  {
+    "BEA_Code": "33712N",
+    "Industry": "Other household nonupholstered furniture",
+    "BEA-Industry": "33712N-Other household nonupholstered furniture"
+  },
+  {
+    "BEA_Code": "33329A",
+    "Industry": "Other industrial machinery manufacturing",
+    "BEA-Industry": "33329A-Other industrial machinery manufacturing"
+  },
+  {
+    "BEA_Code": 335228,
+    "Industry": "Other major household appliance manufacturing",
+    "BEA-Industry": "335228-Other major household appliance manufacturing"
+  },
+  {
+    "BEA_Code": 336390,
+    "Industry": "Other Motor Vehicle Parts Manufacturing",
+    "BEA-Industry": "336390-Other Motor Vehicle Parts Manufacturing"
+  },
+  {
+    "BEA_Code": "424A00",
+    "Industry": "Other nondurable goods merchant wholesalers",
+    "BEA-Industry": "424A00-Other nondurable goods merchant wholesalers"
+  },
+  {
+    "BEA_Code": "2123A0",
+    "Industry": "Other nonmetallic mineral mining and quarrying",
+    "BEA-Industry": "2123A0-Other nonmetallic mineral mining and quarrying"
+  },
+  {
+    "BEA_Code": "2332D0",
+    "Industry": "Other nonresidential structures",
+    "BEA-Industry": "2332D0-Other nonresidential structures"
+  },
+  {
+    "BEA_Code": 812900,
+    "Industry": "Other personal services",
+    "BEA-Industry": "812900-Other personal services"
+  },
+  {
+    "BEA_Code": 324190,
+    "Industry": "Other petroleum and coal products manufacturing",
+    "BEA-Industry": "324190-Other petroleum and coal products manufacturing"
+  },
+  {
+    "BEA_Code": 326190,
+    "Industry": "Other plastics product manufacturing",
+    "BEA-Industry": "326190-Other plastics product manufacturing"
+  },
+  {
+    "BEA_Code": "531ORE",
+    "Industry": "Other real estate",
+    "BEA-Industry": "531ORE-Other real estate"
+  },
+  {
+    "BEA_Code": "2334A0",
+    "Industry": "Other residential structures",
+    "BEA-Industry": "2334A0-Other residential structures"
+  },
+  {
+    "BEA_Code": 326290,
+    "Industry": "Other rubber product manufacturing",
+    "BEA-Industry": "326290-Other rubber product manufacturing"
+  },
+  {
+    "BEA_Code": "S00203",
+    "Industry": "Other state and local government enterprises",
+    "BEA-Industry": "S00203-Other state and local government enterprises"
+  },
+  {
+    "BEA_Code": "21311A",
+    "Industry": "Other support activities for mining",
+    "BEA-Industry": "21311A-Other support activities for mining"
+  },
+  {
+    "BEA_Code": 561900,
+    "Industry": "Other support services",
+    "BEA-Industry": "561900-Other support services"
+  },
+  {
+    "BEA_Code": 314900,
+    "Industry": "Other textile product mills",
+    "BEA-Industry": "314900-Other textile product mills"
+  },
+  {
+    "BEA_Code": 621400,
+    "Industry": "Outpatient care centers",
+    "BEA-Industry": "621400-Outpatient care centers"
+  },
+  {
+    "BEA_Code": "531HSO",
+    "Industry": "Owner-occupied housing",
+    "BEA-Industry": "531HSO-Owner-occupied housing"
+  },
+  {
+    "BEA_Code": 333993,
+    "Industry": "Packaging machinery manufacturing",
+    "BEA-Industry": "333993-Packaging machinery manufacturing"
+  },
+  {
+    "BEA_Code": 325510,
+    "Industry": "Paint and coating manufacturing",
+    "BEA-Industry": "325510-Paint and coating manufacturing"
+  },
+  {
+    "BEA_Code": 322220,
+    "Industry": "Paper Bag and Coated and Treated Paper Manufacturing",
+    "BEA-Industry": "322220-Paper Bag and Coated and Treated Paper Manufacturing"
+  },
+  {
+    "BEA_Code": 322120,
+    "Industry": "Paper mills",
+    "BEA-Industry": "322120-Paper mills"
+  },
+  {
+    "BEA_Code": 322210,
+    "Industry": "Paperboard container manufacturing",
+    "BEA-Industry": "322210-Paperboard container manufacturing"
+  },
+  {
+    "BEA_Code": 322130,
+    "Industry": "Paperboard mills",
+    "BEA-Industry": "322130-Paperboard mills"
+  },
+  {
+    "BEA_Code": 711100,
+    "Industry": "Performing arts companies",
+    "BEA-Industry": "711100-Performing arts companies"
+  },
+  {
+    "BEA_Code": 511120,
+    "Industry": "Periodical Publishers",
+    "BEA-Industry": "511120-Periodical Publishers"
+  },
+  {
+    "BEA_Code": 811400,
+    "Industry": "Personal and household goods repair and maintenance",
+    "BEA-Industry": "811400-Personal and household goods repair and maintenance"
+  },
+  {
+    "BEA_Code": 812100,
+    "Industry": "Personal care services",
+    "BEA-Industry": "812100-Personal care services"
+  },
+  {
+    "BEA_Code": 325320,
+    "Industry": "Pesticide and other agricultural chemical manufacturing",
+    "BEA-Industry": "325320-Pesticide and other agricultural chemical manufacturing"
+  },
+  {
+    "BEA_Code": 325110,
+    "Industry": "Petrochemical manufacturing",
+    "BEA-Industry": "325110-Petrochemical manufacturing"
+  },
+  {
+    "BEA_Code": 424700,
+    "Industry": "Petroleum and petroleum products",
+    "BEA-Industry": "424700-Petroleum and petroleum products"
+  },
+  {
+    "BEA_Code": 324110,
+    "Industry": "Petroleum refineries",
+    "BEA-Industry": "324110-Petroleum refineries"
+  },
+  {
+    "BEA_Code": 325412,
+    "Industry": "Pharmaceutical preparation manufacturing",
+    "BEA-Industry": "325412-Pharmaceutical preparation manufacturing"
+  },
+  {
+    "BEA_Code": 333316,
+    "Industry": "Photographic and photocopying equipment manufacturing",
+    "BEA-Industry": "333316-Photographic and photocopying equipment manufacturing"
+  },
+  {
+    "BEA_Code": 541920,
+    "Industry": "Photographic services",
+    "BEA-Industry": "541920-Photographic services"
+  },
+  {
+    "BEA_Code": 486000,
+    "Industry": "Pipeline transportation",
+    "BEA-Industry": "486000-Pipeline transportation"
+  },
+  {
+    "BEA_Code": 326160,
+    "Industry": "Plastics bottle manufacturing",
+    "BEA-Industry": "326160-Plastics bottle manufacturing"
+  },
+  {
+    "BEA_Code": 325211,
+    "Industry": "Plastics material and resin manufacturing",
+    "BEA-Industry": "325211-Plastics material and resin manufacturing"
+  },
+  {
+    "BEA_Code": 326110,
+    "Industry": "Plastics packaging materials and unlaminated film and sheet manufacturing",
+    "BEA-Industry": "326110-Plastics packaging materials and unlaminated film and sheet manufacturing"
+  },
+  {
+    "BEA_Code": 326120,
+    "Industry": "Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing",
+    "BEA-Industry": "326120-Plastics pipe, pipe fitting, and unlaminated profile shape manufacturing"
+  },
+  {
+    "BEA_Code": 332310,
+    "Industry": "Plate work and fabricated structural product manufacturing",
+    "BEA-Industry": "332310-Plate work and fabricated structural product manufacturing"
+  },
+  {
+    "BEA_Code": 332913,
+    "Industry": "Plumbing fixture fitting and trim manufacturing",
+    "BEA-Industry": "332913-Plumbing fixture fitting and trim manufacturing"
+  },
+  {
+    "BEA_Code": 326140,
+    "Industry": "Polystyrene foam product manufacturing",
+    "BEA-Industry": "326140-Polystyrene foam product manufacturing"
+  },
+  {
+    "BEA_Code": 491000,
+    "Industry": "Postal service",
+    "BEA-Industry": "491000-Postal service"
+  },
+  {
+    "BEA_Code": 112300,
+    "Industry": "Poultry and egg production",
+    "BEA-Industry": "112300-Poultry and egg production"
+  },
+  {
+    "BEA_Code": 311615,
+    "Industry": "Poultry processing",
+    "BEA-Industry": "311615-Poultry processing"
+  },
+  {
+    "BEA_Code": 233240,
+    "Industry": "Power and communication structures",
+    "BEA-Industry": "233240-Power and communication structures"
+  },
+  {
+    "BEA_Code": 332410,
+    "Industry": "Power boiler and heat exchanger manufacturing",
+    "BEA-Industry": "332410-Power boiler and heat exchanger manufacturing"
+  },
+  {
+    "BEA_Code": 335311,
+    "Industry": "Power, distribution, and specialty transformer manufacturing",
+    "BEA-Industry": "335311-Power, distribution, and specialty transformer manufacturing"
+  },
+  {
+    "BEA_Code": 333991,
+    "Industry": "Power-driven handtool manufacturing",
+    "BEA-Industry": "333991-Power-driven handtool manufacturing"
+  },
+  {
+    "BEA_Code": 335912,
+    "Industry": "Primary battery manufacturing",
+    "BEA-Industry": "335912-Primary battery manufacturing"
+  },
+  {
+    "BEA_Code": 334418,
+    "Industry": "Printed circuit assembly (electronic assembly) manufacturing",
+    "BEA-Industry": "334418-Printed circuit assembly (electronic assembly) manufacturing"
+  },
+  {
+    "BEA_Code": 323110,
+    "Industry": "Printing",
+    "BEA-Industry": "323110-Printing"
+  },
+  {
+    "BEA_Code": 325910,
+    "Industry": "Printing ink manufacturing",
+    "BEA-Industry": "325910-Printing ink manufacturing"
+  },
+  {
+    "BEA_Code": 814000,
+    "Industry": "Private households",
+    "BEA-Industry": "814000-Private households"
+  },
+  {
+    "BEA_Code": 423400,
+    "Industry": "Professional and commercial equipment and supplies",
+    "BEA-Industry": "423400-Professional and commercial equipment and supplies"
+  },
+  {
+    "BEA_Code": "711A00",
+    "Industry": "Promoters of performing arts and sports and agents for public figures",
+    "BEA-Industry": "711A00-Promoters of performing arts and sports and agents for public figures"
+  },
+  {
+    "BEA_Code": "33641A",
+    "Industry": "Propulsion units and parts for space vehicles and guided missiles",
+    "BEA-Industry": "33641A-Propulsion units and parts for space vehicles and guided missiles"
+  },
+  {
+    "BEA_Code": 322110,
+    "Industry": "Pulp mills",
+    "BEA-Industry": "322110-Pulp mills"
+  },
+  {
+    "BEA_Code": "33391A",
+    "Industry": "Pump and pumping equipment manufacturing",
+    "BEA-Industry": "33391A-Pump and pumping equipment manufacturing"
+  },
+  {
+    "BEA_Code": 515100,
+    "Industry": "Radio and television broadcasting",
+    "BEA-Industry": "515100-Radio and television broadcasting"
+  },
+  {
+    "BEA_Code": 482000,
+    "Industry": "Rail transportation",
+    "BEA-Industry": "482000-Rail transportation"
+  },
+  {
+    "BEA_Code": 336500,
+    "Industry": "Railroad rolling stock manufacturing",
+    "BEA-Industry": "336500-Railroad rolling stock manufacturing"
+  },
+  {
+    "BEA_Code": 327320,
+    "Industry": "Ready-mix concrete manufacturing",
+    "BEA-Industry": "327320-Ready-mix concrete manufacturing"
+  },
+  {
+    "BEA_Code": 335314,
+    "Industry": "Relay and industrial control manufacturing",
+    "BEA-Industry": "335314-Relay and industrial control manufacturing"
+  },
+  {
+    "BEA_Code": 813100,
+    "Industry": "Religious organizations",
+    "BEA-Industry": "813100-Religious organizations"
+  },
+  {
+    "BEA_Code": 230302,
+    "Industry": "Residential maintenance and repair",
+    "BEA-Industry": "230302-Residential maintenance and repair"
+  },
+  {
+    "BEA_Code": "623B00",
+    "Industry": "Residential mental health, substance abuse, and other residential care facilities",
+    "BEA-Industry": "623B00-Residential mental health, substance abuse, and other residential care facilities"
+  },
+  {
+    "BEA_Code": 326220,
+    "Industry": "Rubber and plastics hoses and belting manufacturing",
+    "BEA-Industry": "326220-Rubber and plastics hoses and belting manufacturing"
+  },
+  {
+    "BEA_Code": 322291,
+    "Industry": "Sanitary paper product manufacturing",
+    "BEA-Industry": "322291-Sanitary paper product manufacturing"
+  },
+  {
+    "BEA_Code": "517A00",
+    "Industry": "Satellite, telecommunications resellers, and all other telecommunications",
+    "BEA-Industry": "517A00-Satellite, telecommunications resellers, and all other telecommunications"
+  },
+  {
+    "BEA_Code": 321100,
+    "Industry": "Sawmills and wood preservation",
+    "BEA-Industry": "321100-Sawmills and wood preservation"
+  },
+  {
+    "BEA_Code": "48A000",
+    "Industry": "Scenic and sightseeing transportation and support activities for transportation",
+    "BEA-Industry": "48A000-Scenic and sightseeing transportation and support activities for transportation"
+  },
+  {
+    "BEA_Code": 541700,
+    "Industry": "Scientific research and development services",
+    "BEA-Industry": "541700-Scientific research and development services"
+  },
+  {
+    "BEA_Code": 311700,
+    "Industry": "Seafood product preparation and packaging",
+    "BEA-Industry": "311700-Seafood product preparation and packaging"
+  },
+  {
+    "BEA_Code": 334511,
+    "Industry": "Search, detection, and navigation instruments manufacturing",
+    "BEA-Industry": "334511-Search, detection, and navigation instruments manufacturing"
+  },
+  {
+    "BEA_Code": 311940,
+    "Industry": "Seasoning and dressing manufacturing",
+    "BEA-Industry": "311940-Seasoning and dressing manufacturing"
+  },
+  {
+    "BEA_Code": 331314,
+    "Industry": "Secondary smelting and alloying of aluminum",
+    "BEA-Industry": "331314-Secondary smelting and alloying of aluminum"
+  },
+  {
+    "BEA_Code": "523A00",
+    "Industry": "Securities and commodity contracts intermediation and brokerage",
+    "BEA-Industry": "523A00-Securities and commodity contracts intermediation and brokerage"
+  },
+  {
+    "BEA_Code": 334413,
+    "Industry": "Semiconductor and related device manufacturing",
+    "BEA-Industry": "334413-Semiconductor and related device manufacturing"
+  },
+  {
+    "BEA_Code": 333242,
+    "Industry": "Semiconductor machinery manufacturing",
+    "BEA-Industry": "333242-Semiconductor machinery manufacturing"
+  },
+  {
+    "BEA_Code": 561700,
+    "Industry": "Services to buildings and dwellings",
+    "BEA-Industry": "561700-Services to buildings and dwellings"
+  },
+  {
+    "BEA_Code": 336611,
+    "Industry": "Ship building and repairing",
+    "BEA-Industry": "336611-Ship building and repairing"
+  },
+  {
+    "BEA_Code": 337215,
+    "Industry": "Showcase, partition, shelving, and locker manufacturing",
+    "BEA-Industry": "337215-Showcase, partition, shelving, and locker manufacturing"
+  },
+  {
+    "BEA_Code": 339950,
+    "Industry": "Sign manufacturing",
+    "BEA-Industry": "339950-Sign manufacturing"
+  },
+  {
+    "BEA_Code": 233411,
+    "Industry": "Single-family residential structures",
+    "BEA-Industry": "233411-Single-family residential structures"
+  },
+  {
+    "BEA_Code": 335210,
+    "Industry": "Small electrical appliance manufacturing",
+    "BEA-Industry": "335210-Small electrical appliance manufacturing"
+  },
+  {
+    "BEA_Code": 311910,
+    "Industry": "Snack food manufacturing",
+    "BEA-Industry": "311910-Snack food manufacturing"
+  },
+  {
+    "BEA_Code": 325610,
+    "Industry": "Soap and cleaning compound manufacturing",
+    "BEA-Industry": "325610-Soap and cleaning compound manufacturing"
+  },
+  {
+    "BEA_Code": 312110,
+    "Industry": "Soft drink and ice manufacturing",
+    "BEA-Industry": "312110-Soft drink and ice manufacturing"
+  },
+  {
+    "BEA_Code": 511200,
+    "Industry": "Software publishers",
+    "BEA-Industry": "511200-Software publishers"
+  },
+  {
+    "BEA_Code": 512200,
+    "Industry": "Sound recording industries",
+    "BEA-Industry": "512200-Sound recording industries"
+  },
+  {
+    "BEA_Code": 311224,
+    "Industry": "Soybean and other oilseed processing",
+    "BEA-Industry": "311224-Soybean and other oilseed processing"
+  },
+  {
+    "BEA_Code": 333514,
+    "Industry": "Special tool, die, jig, and fixture manufacturing",
+    "BEA-Industry": "333514-Special tool, die, jig, and fixture manufacturing"
+  },
+  {
+    "BEA_Code": 541400,
+    "Industry": "Specialized design services",
+    "BEA-Industry": "541400-Specialized design services"
+  },
+  {
+    "BEA_Code": 711200,
+    "Industry": "Spectator sports",
+    "BEA-Industry": "711200-Spectator sports"
+  },
+  {
+    "BEA_Code": 333612,
+    "Industry": "Speed changer, industrial high-speed drive, and gear manufacturing",
+    "BEA-Industry": "333612-Speed changer, industrial high-speed drive, and gear manufacturing"
+  },
+  {
+    "BEA_Code": 339920,
+    "Industry": "Sporting and athletic goods manufacturing",
+    "BEA-Industry": "339920-Sporting and athletic goods manufacturing"
+  },
+  {
+    "BEA_Code": 332600,
+    "Industry": "Spring and wire product manufacturing",
+    "BEA-Industry": "332600-Spring and wire product manufacturing"
+  },
+  {
+    "BEA_Code": "GSLGE",
+    "Industry": "State and local government educational services",
+    "BEA-Industry": "GSLGE-State and local government educational services"
+  },
+  {
+    "BEA_Code": "S00202",
+    "Industry": "State and local government electric utilities",
+    "BEA-Industry": "S00202-State and local government electric utilities"
+  },
+  {
+    "BEA_Code": "GSLGH",
+    "Industry": "State and local government hospitals and health services",
+    "BEA-Industry": "GSLGH-State and local government hospitals and health services"
+  },
+  {
+    "BEA_Code": "GSLGO",
+    "Industry": "State and local government other services",
+    "BEA-Industry": "GSLGO-State and local government other services"
+  },
+  {
+    "BEA_Code": "S00201",
+    "Industry": "State and local government passenger transit",
+    "BEA-Industry": "S00201-State and local government passenger transit"
+  },
+  {
+    "BEA_Code": 322230,
+    "Industry": "Stationery product manufacturing",
+    "BEA-Industry": "322230-Stationery product manufacturing"
+  },
+  {
+    "BEA_Code": 331200,
+    "Industry": "Steel product manufacturing from purchased steel",
+    "BEA-Industry": "331200-Steel product manufacturing from purchased steel"
+  },
+  {
+    "BEA_Code": 212310,
+    "Industry": "Stone mining and quarrying",
+    "BEA-Industry": "212310-Stone mining and quarrying"
+  },
+  {
+    "BEA_Code": 335911,
+    "Industry": "Storage battery manufacturing",
+    "BEA-Industry": "335911-Storage battery manufacturing"
+  },
+  {
+    "BEA_Code": 311300,
+    "Industry": "Sugar and confectionery product manufacturing",
+    "BEA-Industry": "311300-Sugar and confectionery product manufacturing"
+  },
+  {
+    "BEA_Code": 115000,
+    "Industry": "Support activities for agriculture and forestry",
+    "BEA-Industry": "115000-Support activities for agriculture and forestry"
+  },
+  {
+    "BEA_Code": 323120,
+    "Industry": "Support activities for printing",
+    "BEA-Industry": "323120-Support activities for printing"
+  },
+  {
+    "BEA_Code": 339112,
+    "Industry": "Surgical and medical instrument manufacturing",
+    "BEA-Industry": "339112-Surgical and medical instrument manufacturing"
+  },
+  {
+    "BEA_Code": 339113,
+    "Industry": "Surgical appliance and supplies manufacturing",
+    "BEA-Industry": "339113-Surgical appliance and supplies manufacturing"
+  },
+  {
+    "BEA_Code": 335313,
+    "Industry": "Switchgear and switchboard apparatus manufacturing",
+    "BEA-Industry": "335313-Switchgear and switchboard apparatus manufacturing"
+  },
+  {
+    "BEA_Code": 325130,
+    "Industry": "Synthetic dye and pigment manufacturing",
+    "BEA-Industry": "325130-Synthetic dye and pigment manufacturing"
+  },
+  {
+    "BEA_Code": "3252A0",
+    "Industry": "Synthetic rubber and artificial and synthetic fibers and filaments manufacturing",
+    "BEA-Industry": "3252A0-Synthetic rubber and artificial and synthetic fibers and filaments manufacturing"
+  },
+  {
+    "BEA_Code": 334210,
+    "Industry": "Telephone apparatus manufacturing",
+    "BEA-Industry": "334210-Telephone apparatus manufacturing"
+  },
+  {
+    "BEA_Code": "531HST",
+    "Industry": "Tenant-occupied housing",
+    "BEA-Industry": "531HST-Tenant-occupied housing"
+  },
+  {
+    "BEA_Code": 313300,
+    "Industry": "Textile and fabric finishing and fabric coating mills",
+    "BEA-Industry": "313300-Textile and fabric finishing and fabric coating mills"
+  },
+  {
+    "BEA_Code": 326210,
+    "Industry": "Tire manufacturing",
+    "BEA-Industry": "326210-Tire manufacturing"
+  },
+  {
+    "BEA_Code": 312200,
+    "Industry": "Tobacco product manufacturing",
+    "BEA-Industry": "312200-Tobacco product manufacturing"
+  },
+  {
+    "BEA_Code": 325620,
+    "Industry": "Toilet preparation manufacturing",
+    "BEA-Industry": "325620-Toilet preparation manufacturing"
+  },
+  {
+    "BEA_Code": 334514,
+    "Industry": "Totalizing fluid meter and counting device manufacturing",
+    "BEA-Industry": "334514-Totalizing fluid meter and counting device manufacturing"
+  },
+  {
+    "BEA_Code": 485000,
+    "Industry": "Transit and ground passenger transportation",
+    "BEA-Industry": "485000-Transit and ground passenger transportation"
+  },
+  {
+    "BEA_Code": "2332C0",
+    "Industry": "Transportation structures and highways and streets",
+    "BEA-Industry": "2332C0-Transportation structures and highways and streets"
+  },
+  {
+    "BEA_Code": 561500,
+    "Industry": "Travel arrangement and reservation services",
+    "BEA-Industry": "561500-Travel arrangement and reservation services"
+  },
+  {
+    "BEA_Code": 336214,
+    "Industry": "Travel trailer and camper manufacturing",
+    "BEA-Industry": "336214-Travel trailer and camper manufacturing"
+  },
+  {
+    "BEA_Code": 336212,
+    "Industry": "Truck trailer manufacturing",
+    "BEA-Industry": "336212-Truck trailer manufacturing"
+  },
+  {
+    "BEA_Code": 484000,
+    "Industry": "Truck transportation",
+    "BEA-Industry": "484000-Truck transportation"
+  },
+  {
+    "BEA_Code": 333611,
+    "Industry": "Turbine and turbine generator set units manufacturing",
+    "BEA-Industry": "333611-Turbine and turbine generator set units manufacturing"
+  },
+  {
+    "BEA_Code": 332720,
+    "Industry": "Turned product and screw, nut, and bolt manufacturing",
+    "BEA-Industry": "332720-Turned product and screw, nut, and bolt manufacturing"
+  },
+  {
+    "BEA_Code": 337121,
+    "Industry": "Upholstered household furniture manufacturing",
+    "BEA-Industry": "337121-Upholstered household furniture manufacturing"
+  },
+  {
+    "BEA_Code": 326150,
+    "Industry": "Urethane and other foam product (except polystyrene) manufacturing",
+    "BEA-Industry": "326150-Urethane and other foam product (except polystyrene) manufacturing"
+  },
+  {
+    "BEA_Code": "33291A",
+    "Industry": "Valve and fittings other than plumbing",
+    "BEA-Industry": "33291A-Valve and fittings other than plumbing"
+  },
+  {
+    "BEA_Code": 111200,
+    "Industry": "Vegetable and melon farming",
+    "BEA-Industry": "111200-Vegetable and melon farming"
+  },
+  {
+    "BEA_Code": 321200,
+    "Industry": "Veneer, plywood, and engineered wood product manufacturing",
+    "BEA-Industry": "321200-Veneer, plywood, and engineered wood product manufacturing"
+  },
+  {
+    "BEA_Code": 541940,
+    "Industry": "Veterinary services",
+    "BEA-Industry": "541940-Veterinary services"
+  },
+  {
+    "BEA_Code": 493000,
+    "Industry": "Warehousing and storage",
+    "BEA-Industry": "493000-Warehousing and storage"
+  },
+  {
+    "BEA_Code": 562000,
+    "Industry": "Waste management and remediation services",
+    "BEA-Industry": "562000-Waste management and remediation services"
+  },
+  {
+    "BEA_Code": "33451A",
+    "Industry": "Watch, clock, and other measuring and controlling device manufacturing",
+    "BEA-Industry": "33451A-Watch, clock, and other measuring and controlling device manufacturing"
+  },
+  {
+    "BEA_Code": 483000,
+    "Industry": "Water transportation",
+    "BEA-Industry": "483000-Water transportation"
+  },
+  {
+    "BEA_Code": 221300,
+    "Industry": "Water, sewage and other systems",
+    "BEA-Industry": "221300-Water, sewage and other systems"
+  },
+  {
+    "BEA_Code": 311221,
+    "Industry": "Wet corn milling",
+    "BEA-Industry": "311221-Wet corn milling"
+  },
+  {
+    "BEA_Code": 425000,
+    "Industry": "Wholesale electronic markets and agents and brokers",
+    "BEA-Industry": "425000-Wholesale electronic markets and agents and brokers"
+  },
+  {
+    "BEA_Code": 312130,
+    "Industry": "Wineries",
+    "BEA-Industry": "312130-Wineries"
+  },
+  {
+    "BEA_Code": 517110,
+    "Industry": "Wired telecommunications carriers",
+    "BEA-Industry": "517110-Wired telecommunications carriers"
+  },
+  {
+    "BEA_Code": 517210,
+    "Industry": "Wireless telecommunications carriers (except satellite)",
+    "BEA-Industry": "517210-Wireless telecommunications carriers (except satellite)"
+  },
+  {
+    "BEA_Code": 335930,
+    "Industry": "Wiring device manufacturing",
+    "BEA-Industry": "335930-Wiring device manufacturing"
+  },
+  {
+    "BEA_Code": 337110,
+    "Industry": "Wood kitchen cabinet and countertop manufacturing",
+    "BEA-Industry": "337110-Wood kitchen cabinet and countertop manufacturing"
+  }
+]
