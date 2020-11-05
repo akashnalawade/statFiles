@@ -1,0 +1,1127 @@
+[
+  {
+    "Name": "Afghanistan",
+    "twoDigitCode": "af",
+    "code": "AFG"
+  },
+  {
+    "Name": "Albania",
+    "twoDigitCode": "al",
+    "code": "ALB"
+  },
+  {
+    "Name": "Algeria",
+    "twoDigitCode": "dz",
+    "code": "DZA"
+  },
+  {
+    "Name": "American Samoa",
+    "twoDigitCode": "as",
+    "code": "ASM"
+  },
+  {
+    "Name": "Angola",
+    "twoDigitCode": "ao",
+    "code": "AGO"
+  },
+  {
+    "Name": "Anguilla",
+    "twoDigitCode": "ai",
+    "code": "AIA"
+  },
+  {
+    "Name": "Antarctica",
+    "twoDigitCode": "aq",
+    "code": "ATA"
+  },
+  {
+    "Name": "Antigua and Barbuda",
+    "twoDigitCode": "ag",
+    "code": "ATG"
+  },
+  {
+    "Name": "Argentina",
+    "twoDigitCode": "ar",
+    "code": "ARG"
+  },
+  {
+    "Name": "Armenia",
+    "twoDigitCode": "am",
+    "code": "ARM"
+  },
+  {
+    "Name": "Aruba",
+    "twoDigitCode": "aw",
+    "code": "ABW"
+  },
+  {
+    "Name": "Australia",
+    "twoDigitCode": "au",
+    "code": "AUS"
+  },
+  {
+    "Name": "Austria",
+    "twoDigitCode": "at",
+    "code": "AUT"
+  },
+  {
+    "Name": "Azerbaijan",
+    "twoDigitCode": "az",
+    "code": "AZE"
+  },
+  {
+    "Name": "Bahamas",
+    "twoDigitCode": "bs",
+    "code": "BHS"
+  },
+  {
+    "Name": "Bahrain",
+    "twoDigitCode": "bh",
+    "code": "BHR"
+  },
+  {
+    "Name": "Bangladesh",
+    "twoDigitCode": "bd",
+    "code": "BGD"
+  },
+  {
+    "Name": "Barbados",
+    "twoDigitCode": "bb",
+    "code": "BRB"
+  },
+  {
+    "Name": "Belarus",
+    "twoDigitCode": "by",
+    "code": "BLR"
+  },
+  {
+    "Name": "Belgium",
+    "twoDigitCode": "be",
+    "code": "BEL"
+  },
+  {
+    "Name": "Belize",
+    "twoDigitCode": "bz",
+    "code": "BLZ"
+  },
+  {
+    "Name": "Benin",
+    "twoDigitCode": "bj",
+    "code": "BEN"
+  },
+  {
+    "Name": "Bermuda",
+    "twoDigitCode": "bm",
+    "code": "BMU"
+  },
+  {
+    "Name": "Bhutan",
+    "twoDigitCode": "bt",
+    "code": "BTN"
+  },
+  {
+    "Name": "Bosnia and Herzegovina",
+    "twoDigitCode": "ba",
+    "code": "BIH"
+  },
+  {
+    "Name": "Botswana",
+    "twoDigitCode": "bw",
+    "code": "BWA"
+  },
+  {
+    "Name": "Bouvet Island",
+    "twoDigitCode": "bv",
+    "code": "BVT"
+  },
+  {
+    "Name": "Brazil",
+    "twoDigitCode": "br",
+    "code": "BRA"
+  },
+  {
+    "Name": "British Indian Ocean Territory",
+    "twoDigitCode": "io",
+    "code": "IOT"
+  },
+  {
+    "Name": "Brunei Darussalam",
+    "twoDigitCode": "bn",
+    "code": "BRN"
+  },
+  {
+    "Name": "Bulgaria",
+    "twoDigitCode": "bg",
+    "code": "BGR"
+  },
+  {
+    "Name": "Burkina Faso",
+    "twoDigitCode": "bf",
+    "code": "BFA"
+  },
+  {
+    "Name": "Burundi",
+    "twoDigitCode": "bi",
+    "code": "BDI"
+  },
+  {
+    "Name": "Cambodia",
+    "twoDigitCode": "kh",
+    "code": "KHM"
+  },
+  {
+    "Name": "Cameroon",
+    "twoDigitCode": "cm",
+    "code": "CMR"
+  },
+  {
+    "Name": "Canada",
+    "twoDigitCode": "ca",
+    "code": "CAN"
+  },
+  {
+    "Name": "Cape Verde",
+    "twoDigitCode": "cv",
+    "code": "CPV"
+  },
+  {
+    "Name": "Cayman Islands",
+    "twoDigitCode": "ky",
+    "code": "CYM"
+  },
+  {
+    "Name": "Central African Republic",
+    "twoDigitCode": "cf",
+    "code": "CAF"
+  },
+  {
+    "Name": "Chad",
+    "twoDigitCode": "td",
+    "code": "TCD"
+  },
+  {
+    "Name": "Chile",
+    "twoDigitCode": "cl",
+    "code": "CHL"
+  },
+  {
+    "Name": "China",
+    "twoDigitCode": "cn",
+    "code": "CHN"
+  },
+  {
+    "Name": "Christmas Island",
+    "twoDigitCode": "cx",
+    "code": "CXR"
+  },
+  {
+    "Name": "Cocos (Keeling) Islands",
+    "twoDigitCode": "cc",
+    "code": "CCK"
+  },
+  {
+    "Name": "Colombia",
+    "twoDigitCode": "co",
+    "code": "COL"
+  },
+  {
+    "Name": "Comoros",
+    "twoDigitCode": "km",
+    "code": "COM"
+  },
+  {
+    "Name": "Congo",
+    "twoDigitCode": "cg",
+    "code": "COG"
+  },
+  {
+    "Name": "Cook Islands",
+    "twoDigitCode": "ck",
+    "code": "COK"
+  },
+  {
+    "Name": "Costa Rica",
+    "twoDigitCode": "cr",
+    "code": "CRI"
+  },
+  {
+    "Name": "Croatia",
+    "twoDigitCode": "hr",
+    "code": "HRV"
+  },
+  {
+    "Name": "Cuba",
+    "twoDigitCode": "cu",
+    "code": "CUB"
+  },
+  {
+    "Name": "Cyprus",
+    "twoDigitCode": "cy",
+    "code": "CYP"
+  },
+  {
+    "Name": "Czech Republic",
+    "twoDigitCode": "cz",
+    "code": "CZE"
+  },
+  {
+    "Name": "Denmark",
+    "twoDigitCode": "dk",
+    "code": "DNK"
+  },
+  {
+    "Name": "Djibouti",
+    "twoDigitCode": "dj",
+    "code": "DJI"
+  },
+  {
+    "Name": "Dominica",
+    "twoDigitCode": "dm",
+    "code": "DMA"
+  },
+  {
+    "Name": "Dominican Republic",
+    "twoDigitCode": "do",
+    "code": "DOM"
+  },
+  {
+    "Name": "Ecuador",
+    "twoDigitCode": "ec",
+    "code": "ECU"
+  },
+  {
+    "Name": "Egypt",
+    "twoDigitCode": "eg",
+    "code": "EGY"
+  },
+  {
+    "Name": "El Salvador",
+    "twoDigitCode": "sv",
+    "code": "SLV"
+  },
+  {
+    "Name": "Equatorial Guinea",
+    "twoDigitCode": "gq",
+    "code": "GNQ"
+  },
+  {
+    "Name": "Eritrea",
+    "twoDigitCode": "er",
+    "code": "ERI"
+  },
+  {
+    "Name": "Estonia",
+    "twoDigitCode": "ee",
+    "code": "EST"
+  },
+  {
+    "Name": "Ethiopia",
+    "twoDigitCode": "et",
+    "code": "ETH"
+  },
+  {
+    "Name": "Falkland Islands (Malvinas)",
+    "twoDigitCode": "fk",
+    "code": "FLK"
+  },
+  {
+    "Name": "Faroe Islands",
+    "twoDigitCode": "fo",
+    "code": "FRO"
+  },
+  {
+    "Name": "Fiji",
+    "twoDigitCode": "fj",
+    "code": "FJI"
+  },
+  {
+    "Name": "Finland",
+    "twoDigitCode": "fi",
+    "code": "FIN"
+  },
+  {
+    "Name": "France",
+    "twoDigitCode": "fr",
+    "code": "FRA"
+  },
+  {
+    "Name": "French Guiana",
+    "twoDigitCode": "gf",
+    "code": "GUF"
+  },
+  {
+    "Name": "French Polynesia",
+    "twoDigitCode": "pf",
+    "code": "PYF"
+  },
+  {
+    "Name": "French Southern Territories",
+    "twoDigitCode": "tf",
+    "code": "ATF"
+  },
+  {
+    "Name": "Gabon",
+    "twoDigitCode": "ga",
+    "code": "GAB"
+  },
+  {
+    "Name": "Gambia",
+    "twoDigitCode": "gm",
+    "code": "GMB"
+  },
+  {
+    "Name": "Georgia",
+    "twoDigitCode": "ge",
+    "code": "GEO"
+  },
+  {
+    "Name": "Germany",
+    "twoDigitCode": "de",
+    "code": "DEU"
+  },
+  {
+    "Name": "Ghana",
+    "twoDigitCode": "gh",
+    "code": "GHA"
+  },
+  {
+    "Name": "Gibraltar",
+    "twoDigitCode": "gi",
+    "code": "GIB"
+  },
+  {
+    "Name": "Greece",
+    "twoDigitCode": "gr",
+    "code": "GRC"
+  },
+  {
+    "Name": "Greenland",
+    "twoDigitCode": "gl",
+    "code": "GRL"
+  },
+  {
+    "Name": "Grenada",
+    "twoDigitCode": "gd",
+    "code": "GRD"
+  },
+  {
+    "Name": "Guadeloupe",
+    "twoDigitCode": "gp",
+    "code": "GLP"
+  },
+  {
+    "Name": "Guam",
+    "twoDigitCode": "gu",
+    "code": "GUM"
+  },
+  {
+    "Name": "Guatemala",
+    "twoDigitCode": "gt",
+    "code": "GTM"
+  },
+  {
+    "Name": "Guernsey",
+    "twoDigitCode": "gg",
+    "code": "GGY"
+  },
+  {
+    "Name": "Guinea",
+    "twoDigitCode": "gn",
+    "code": "GIN"
+  },
+  {
+    "Name": "Guyana",
+    "twoDigitCode": "gy",
+    "code": "GUY"
+  },
+  {
+    "Name": "Haiti",
+    "twoDigitCode": "ht",
+    "code": "HTI"
+  },
+  {
+    "Name": "Holy See (Vatican City State)",
+    "twoDigitCode": "va",
+    "code": "VAT"
+  },
+  {
+    "Name": "Honduras",
+    "twoDigitCode": "hn",
+    "code": "HND"
+  },
+  {
+    "Name": "Hong Kong",
+    "twoDigitCode": "hk",
+    "code": "HKG"
+  },
+  {
+    "Name": "Hungary",
+    "twoDigitCode": "hu",
+    "code": "HUN"
+  },
+  {
+    "Name": "Iceland",
+    "twoDigitCode": "is",
+    "code": "ISL"
+  },
+  {
+    "Name": "India",
+    "twoDigitCode": "in",
+    "code": "IND"
+  },
+  {
+    "Name": "Indonesia",
+    "twoDigitCode": "id",
+    "code": "IDN"
+  },
+  {
+    "Name": "Iraq",
+    "twoDigitCode": "iq",
+    "code": "IRQ"
+  },
+  {
+    "Name": "Ireland",
+    "twoDigitCode": "ie",
+    "code": "IRL"
+  },
+  {
+    "Name": "Isle of Man",
+    "twoDigitCode": "im",
+    "code": "IMN"
+  },
+  {
+    "Name": "Israel",
+    "twoDigitCode": "il",
+    "code": "ISR"
+  },
+  {
+    "Name": "Italy",
+    "twoDigitCode": "it",
+    "code": "ITA"
+  },
+  {
+    "Name": "Jamaica",
+    "twoDigitCode": "jm",
+    "code": "JAM"
+  },
+  {
+    "Name": "Japan",
+    "twoDigitCode": "jp",
+    "code": "JPN"
+  },
+  {
+    "Name": "Jersey",
+    "twoDigitCode": "je",
+    "code": "JEY"
+  },
+  {
+    "Name": "Jordan",
+    "twoDigitCode": "jo",
+    "code": "JOR"
+  },
+  {
+    "Name": "Kazakhstan",
+    "twoDigitCode": "kz",
+    "code": "KAZ"
+  },
+  {
+    "Name": "Kenya",
+    "twoDigitCode": "ke",
+    "code": "KEN"
+  },
+  {
+    "Name": "Kiribati",
+    "twoDigitCode": "ki",
+    "code": "KIR"
+  },
+  {
+    "Name": "Korea, Republic of",
+    "twoDigitCode": "kr",
+    "code": "KOR"
+  },
+  {
+    "Name": "Kuwait",
+    "twoDigitCode": "kw",
+    "code": "KWT"
+  },
+  {
+    "Name": "Kyrgyzstan",
+    "twoDigitCode": "kg",
+    "code": "KGZ"
+  },
+  {
+    "Name": "Latvia",
+    "twoDigitCode": "lv",
+    "code": "LVA"
+  },
+  {
+    "Name": "Lebanon",
+    "twoDigitCode": "lb",
+    "code": "LBN"
+  },
+  {
+    "Name": "Lesotho",
+    "twoDigitCode": "ls",
+    "code": "LSO"
+  },
+  {
+    "Name": "Liberia",
+    "twoDigitCode": "lr",
+    "code": "LBR"
+  },
+  {
+    "Name": "Libyan Arab Jamahiriya",
+    "twoDigitCode": "ly",
+    "code": "LBY"
+  },
+  {
+    "Name": "Liechtenstein",
+    "twoDigitCode": "li",
+    "code": "LIE"
+  },
+  {
+    "Name": "Lithuania",
+    "twoDigitCode": "lt",
+    "code": "LTU"
+  },
+  {
+    "Name": "Luxembourg",
+    "twoDigitCode": "lu",
+    "code": "LUX"
+  },
+  {
+    "Name": "Macao",
+    "twoDigitCode": "mo",
+    "code": "MAC"
+  },
+  {
+    "Name": "Madagascar",
+    "twoDigitCode": "mg",
+    "code": "MDG"
+  },
+  {
+    "Name": "Malawi",
+    "twoDigitCode": "mw",
+    "code": "MWI"
+  },
+  {
+    "Name": "Malaysia",
+    "twoDigitCode": "my",
+    "code": "MYS"
+  },
+  {
+    "Name": "Maldives",
+    "twoDigitCode": "mv",
+    "code": "MDV"
+  },
+  {
+    "Name": "Mali",
+    "twoDigitCode": "ml",
+    "code": "MLI"
+  },
+  {
+    "Name": "Malta",
+    "twoDigitCode": "mt",
+    "code": "MLT"
+  },
+  {
+    "Name": "Marshall Islands",
+    "twoDigitCode": "mh",
+    "code": "MHL"
+  },
+  {
+    "Name": "Martinique",
+    "twoDigitCode": "mq",
+    "code": "MTQ"
+  },
+  {
+    "Name": "Mauritania",
+    "twoDigitCode": "mr",
+    "code": "MRT"
+  },
+  {
+    "Name": "Mauritius",
+    "twoDigitCode": "mu",
+    "code": "MUS"
+  },
+  {
+    "Name": "Mayotte",
+    "twoDigitCode": "yt",
+    "code": "MYT"
+  },
+  {
+    "Name": "Mexico",
+    "twoDigitCode": "mx",
+    "code": "MEX"
+  },
+  {
+    "Name": "Micronesia, Federated States of",
+    "twoDigitCode": "fm",
+    "code": "FSM"
+  },
+  {
+    "Name": "Moldova, Republic of",
+    "twoDigitCode": "md",
+    "code": "MDA"
+  },
+  {
+    "Name": "Monaco",
+    "twoDigitCode": "mc",
+    "code": "MCO"
+  },
+  {
+    "Name": "Mongolia",
+    "twoDigitCode": "mn",
+    "code": "MNG"
+  },
+  {
+    "Name": "Montserrat",
+    "twoDigitCode": "ms",
+    "code": "MSR"
+  },
+  {
+    "Name": "Morocco",
+    "twoDigitCode": "ma",
+    "code": "MAR"
+  },
+  {
+    "Name": "Mozambique",
+    "twoDigitCode": "mz",
+    "code": "MOZ"
+  },
+  {
+    "Name": "Myanmar",
+    "twoDigitCode": "mm",
+    "code": "MMR"
+  },
+  {
+    "Name": "Namibia",
+    "twoDigitCode": "na",
+    "code": "NAM"
+  },
+  {
+    "Name": "Nauru",
+    "twoDigitCode": "nr",
+    "code": "NRU"
+  },
+  {
+    "Name": "Nepal",
+    "twoDigitCode": "np",
+    "code": "NPL"
+  },
+  {
+    "Name": "Netherlands",
+    "twoDigitCode": "nl",
+    "code": "NLD"
+  },
+  {
+    "Name": "Netherlands Antilles",
+    "twoDigitCode": "an",
+    "code": "ANT"
+  },
+  {
+    "Name": "New Caledonia",
+    "twoDigitCode": "nc",
+    "code": "NCL"
+  },
+  {
+    "Name": "New Zealand",
+    "twoDigitCode": "nz",
+    "code": "NZL"
+  },
+  {
+    "Name": "Nicaragua",
+    "twoDigitCode": "ni",
+    "code": "NIC"
+  },
+  {
+    "Name": "Niger",
+    "twoDigitCode": "ne",
+    "code": "NER"
+  },
+  {
+    "Name": "Nigeria",
+    "twoDigitCode": "ng",
+    "code": "NGA"
+  },
+  {
+    "Name": "Niue",
+    "twoDigitCode": "nu",
+    "code": "NIU"
+  },
+  {
+    "Name": "Norfolk Island",
+    "twoDigitCode": "nf",
+    "code": "NFK"
+  },
+  {
+    "Name": "Northern Mariana Islands",
+    "twoDigitCode": "mp",
+    "code": "MNP"
+  },
+  {
+    "Name": "Norway",
+    "twoDigitCode": "no",
+    "code": "NOR"
+  },
+  {
+    "Name": "Oman",
+    "twoDigitCode": "om",
+    "code": "OMN"
+  },
+  {
+    "Name": "Pakistan",
+    "twoDigitCode": "pk",
+    "code": "PAK"
+  },
+  {
+    "Name": "Palau",
+    "twoDigitCode": "pw",
+    "code": "PLW"
+  },
+  {
+    "Name": "Palestinian Territory, Occupied",
+    "twoDigitCode": "ps",
+    "code": "PSE"
+  },
+  {
+    "Name": "Panama",
+    "twoDigitCode": "pa",
+    "code": "PAN"
+  },
+  {
+    "Name": "Papua New Guinea",
+    "twoDigitCode": "pg",
+    "code": "PNG"
+  },
+  {
+    "Name": "Paraguay",
+    "twoDigitCode": "py",
+    "code": "PRY"
+  },
+  {
+    "Name": "Peru",
+    "twoDigitCode": "pe",
+    "code": "PER"
+  },
+  {
+    "Name": "Philippines",
+    "twoDigitCode": "ph",
+    "code": "PHL"
+  },
+  {
+    "Name": "Pitcairn",
+    "twoDigitCode": "pn",
+    "code": "PCN"
+  },
+  {
+    "Name": "Poland",
+    "twoDigitCode": "pl",
+    "code": "POL"
+  },
+  {
+    "Name": "Portugal",
+    "twoDigitCode": "pt",
+    "code": "PRT"
+  },
+  {
+    "Name": "Puerto Rico",
+    "twoDigitCode": "pr",
+    "code": "PRI"
+  },
+  {
+    "Name": "Qatar",
+    "twoDigitCode": "qa",
+    "code": "QAT"
+  },
+  {
+    "Name": "Romania",
+    "twoDigitCode": "ro",
+    "code": "ROU"
+  },
+  {
+    "Name": "Russian Federation",
+    "twoDigitCode": "ru",
+    "code": "RUS"
+  },
+  {
+    "Name": "Saint Kitts and Nevis",
+    "twoDigitCode": "kn",
+    "code": "KNA"
+  },
+  {
+    "Name": "Saint Lucia",
+    "twoDigitCode": "lc",
+    "code": "LCA"
+  },
+  {
+    "Name": "Saint Pierre and Miquelon",
+    "twoDigitCode": "pm",
+    "code": "SPM"
+  },
+  {
+    "Name": "Saint Vincent and the Grenadines",
+    "twoDigitCode": "vc",
+    "code": "VCT"
+  },
+  {
+    "Name": "Samoa",
+    "twoDigitCode": "ws",
+    "code": "WSM"
+  },
+  {
+    "Name": "San Marino",
+    "twoDigitCode": "sm",
+    "code": "SMR"
+  },
+  {
+    "Name": "Sao Tome and Principe",
+    "twoDigitCode": "st",
+    "code": "STP"
+  },
+  {
+    "Name": "Saudi Arabia",
+    "twoDigitCode": "sa",
+    "code": "SAU"
+  },
+  {
+    "Name": "Senegal",
+    "twoDigitCode": "sn",
+    "code": "SEN"
+  },
+  {
+    "Name": "Seychelles",
+    "twoDigitCode": "sc",
+    "code": "SYC"
+  },
+  {
+    "Name": "Sierra Leone",
+    "twoDigitCode": "sl",
+    "code": "SLE"
+  },
+  {
+    "Name": "Singapore",
+    "twoDigitCode": "sg",
+    "code": "SGP"
+  },
+  {
+    "Name": "Slovakia",
+    "twoDigitCode": "sk",
+    "code": "SVK"
+  },
+  {
+    "Name": "Slovenia",
+    "twoDigitCode": "si",
+    "code": "SVN"
+  },
+  {
+    "Name": "Solomon Islands",
+    "twoDigitCode": "sb",
+    "code": "SLB"
+  },
+  {
+    "Name": "Somalia",
+    "twoDigitCode": "so",
+    "code": "SOM"
+  },
+  {
+    "Name": "South Africa",
+    "twoDigitCode": "za",
+    "code": "ZAF"
+  },
+  {
+    "Name": "South Georgia and the South Sandwich Islands",
+    "twoDigitCode": "gs",
+    "code": "SGS"
+  },
+  {
+    "Name": "Spain",
+    "twoDigitCode": "es",
+    "code": "ESP"
+  },
+  {
+    "Name": "Sri Lanka",
+    "twoDigitCode": "lk",
+    "code": "LKA"
+  },
+  {
+    "Name": "Sudan",
+    "twoDigitCode": "sd",
+    "code": "SDN"
+  },
+  {
+    "Name": "Svalbard and Jan Mayen",
+    "twoDigitCode": "sj",
+    "code": "SJM"
+  },
+  {
+    "Name": "Swaziland",
+    "twoDigitCode": "sz",
+    "code": "SWZ"
+  },
+  {
+    "Name": "Sweden",
+    "twoDigitCode": "se",
+    "code": "SWE"
+  },
+  {
+    "Name": "Switzerland",
+    "twoDigitCode": "ch",
+    "code": "CHE"
+  },
+  {
+    "Name": "Syrian Arab Republic",
+    "twoDigitCode": "sy",
+    "code": "SYR"
+  },
+  {
+    "Name": "Taiwan, Province of China",
+    "twoDigitCode": "tw",
+    "code": "TWN"
+  },
+  {
+    "Name": "Tajikistan",
+    "twoDigitCode": "tj",
+    "code": "TJK"
+  },
+  {
+    "Name": "Tanzania, United Republic of",
+    "twoDigitCode": "tz",
+    "code": "TZA"
+  },
+  {
+    "Name": "Thailand",
+    "twoDigitCode": "th",
+    "code": "THA"
+  },
+  {
+    "Name": "Togo",
+    "twoDigitCode": "tg",
+    "code": "TGO"
+  },
+  {
+    "Name": "Tokelau",
+    "twoDigitCode": "tk",
+    "code": "TKL"
+  },
+  {
+    "Name": "Tonga",
+    "twoDigitCode": "to",
+    "code": "TON"
+  },
+  {
+    "Name": "Trinidad and Tobago",
+    "twoDigitCode": "tt",
+    "code": "TTO"
+  },
+  {
+    "Name": "Tunisia",
+    "twoDigitCode": "tn",
+    "code": "TUN"
+  },
+  {
+    "Name": "Turkey",
+    "twoDigitCode": "tr",
+    "code": "TUR"
+  },
+  {
+    "Name": "Turkmenistan",
+    "twoDigitCode": "tm",
+    "code": "TKM"
+  },
+  {
+    "Name": "Turks and Caicos Islands",
+    "twoDigitCode": "tc",
+    "code": "TCA"
+  },
+  {
+    "Name": "Tuvalu",
+    "twoDigitCode": "tv",
+    "code": "TUV"
+  },
+  {
+    "Name": "Uganda",
+    "twoDigitCode": "ug",
+    "code": "UGA"
+  },
+  {
+    "Name": "Ukraine",
+    "twoDigitCode": "ua",
+    "code": "UKR"
+  },
+  {
+    "Name": "United Arab Emirates",
+    "twoDigitCode": "ae",
+    "code": "ARE"
+  },
+  {
+    "Name": "United Kingdom",
+    "twoDigitCode": "gb",
+    "code": "GBR"
+  },
+  {
+    "Name": "United States",
+    "twoDigitCode": "us",
+    "code": "USA"
+  },
+  {
+    "Name": "United States Minor Outlying Islands",
+    "twoDigitCode": "um",
+    "code": "UMI"
+  },
+  {
+    "Name": "Uruguay",
+    "twoDigitCode": "uy",
+    "code": "URY"
+  },
+  {
+    "Name": "Uzbekistan",
+    "twoDigitCode": "uz",
+    "code": "UZB"
+  },
+  {
+    "Name": "Vanuatu",
+    "twoDigitCode": "vu",
+    "code": "VUT"
+  },
+  {
+    "Name": "Viet Nam",
+    "twoDigitCode": "vn",
+    "code": "VNM"
+  },
+  {
+    "Name": "Virgin Islands, British",
+    "twoDigitCode": "vg",
+    "code": "VGB"
+  },
+  {
+    "Name": "Virgin Islands, U.S.",
+    "twoDigitCode": "vi",
+    "code": "VIR"
+  },
+  {
+    "Name": "Wallis and Futuna",
+    "twoDigitCode": "wf",
+    "code": "WLF"
+  },
+  {
+    "Name": "Western Sahara",
+    "twoDigitCode": "eh",
+    "code": "ESH"
+  },
+  {
+    "Name": "Yemen",
+    "twoDigitCode": "ye",
+    "code": "YEM"
+  },
+  {
+    "Name": "Zambia",
+    "twoDigitCode": "zm",
+    "code": "ZMB"
+  },
+  {
+    "Name": "Zimbabwe",
+    "twoDigitCode": "zw",
+    "code": "ZWE"
+  }
+]
