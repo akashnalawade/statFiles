@@ -1,0 +1,222 @@
+[
+  {
+    "Name": "Australia",
+    "twoDigitCode": "au",
+    "code": "AUS"
+  },
+  {
+    "Name": "Austria",
+    "twoDigitCode": "at",
+    "code": "AUT"
+  },
+  {
+    "Name": "Belgium",
+    "twoDigitCode": "be",
+    "code": "BEL"
+  },
+  {
+    "Name": "Brazil",
+    "twoDigitCode": "br",
+    "code": "BRA"
+  },
+  {
+    "Name": "Bulgaria",
+    "twoDigitCode": "bg",
+    "code": "BGR"
+  },
+  {
+    "Name": "Canada",
+    "twoDigitCode": "ca",
+    "code": "CAN"
+  },
+  {
+    "Name": "China",
+    "twoDigitCode": "cn",
+    "code": "CHN"
+  },
+  {
+    "Name": "Croatia",
+    "twoDigitCode": "hr",
+    "code": "HRV"
+  },
+  {
+    "Name": "Cyprus",
+    "twoDigitCode": "cy",
+    "code": "CYP"
+  },
+  {
+    "Name": "Czech Republic",
+    "twoDigitCode": "cz",
+    "code": "CZE"
+  },
+  {
+    "Name": "Denmark",
+    "twoDigitCode": "dk",
+    "code": "DNK"
+  },
+  {
+    "Name": "Estonia",
+    "twoDigitCode": "ee",
+    "code": "EST"
+  },
+  {
+    "Name": "Finland",
+    "twoDigitCode": "fi",
+    "code": "FIN"
+  },
+  {
+    "Name": "France",
+    "twoDigitCode": "fr",
+    "code": "FRA"
+  },
+  {
+    "Name": "Germany",
+    "twoDigitCode": "de",
+    "code": "DEU"
+  },
+  {
+    "Name": "Greece",
+    "twoDigitCode": "gr",
+    "code": "GRC"
+  },
+  {
+    "Name": "Hungary",
+    "twoDigitCode": "hu",
+    "code": "HUN"
+  },
+  {
+    "Name": "India",
+    "twoDigitCode": "in",
+    "code": "IND"
+  },
+  {
+    "Name": "Indonesia",
+    "twoDigitCode": "id",
+    "code": "IDN"
+  },
+  {
+    "Name": "Ireland",
+    "twoDigitCode": "ie",
+    "code": "IRL"
+  },
+  {
+    "Name": "Italy",
+    "twoDigitCode": "it",
+    "code": "ITA"
+  },
+  {
+    "Name": "Japan",
+    "twoDigitCode": "jp",
+    "code": "JPN"
+  },
+  {
+    "Name": "Korea, Republic of",
+    "twoDigitCode": "kr",
+    "code": "KOR"
+  },
+  {
+    "Name": "Latvia",
+    "twoDigitCode": "lv",
+    "code": "LVA"
+  },
+  {
+    "Name": "Lithuania",
+    "twoDigitCode": "lt",
+    "code": "LTU"
+  },
+  {
+    "Name": "Luxembourg",
+    "twoDigitCode": "lu",
+    "code": "LUX"
+  },
+  {
+    "Name": "Malta",
+    "twoDigitCode": "mt",
+    "code": "MLT"
+  },
+  {
+    "Name": "Mexico",
+    "twoDigitCode": "mx",
+    "code": "MEX"
+  },
+  {
+    "Name": "Netherlands",
+    "twoDigitCode": "nl",
+    "code": "NLD"
+  },
+  {
+    "Name": "Norway",
+    "twoDigitCode": "no",
+    "code": "NOR"
+  },
+  {
+    "Name": "Poland",
+    "twoDigitCode": "pl",
+    "code": "POL"
+  },
+  {
+    "Name": "Portugal",
+    "twoDigitCode": "pt",
+    "code": "PRT"
+  },
+  {
+    "Name": "Rest of the World",
+    "twoDigitCode": "rw",
+    "code": "ROW"
+  },
+  {
+    "Name": "Romania",
+    "twoDigitCode": "ro",
+    "code": "ROU"
+  },
+  {
+    "Name": "Russian Federation",
+    "twoDigitCode": "ru",
+    "code": "RUS"
+  },
+  {
+    "Name": "Slovakia",
+    "twoDigitCode": "sk",
+    "code": "SVK"
+  },
+  {
+    "Name": "Slovenia",
+    "twoDigitCode": "si",
+    "code": "SVN"
+  },
+  {
+    "Name": "Spain",
+    "twoDigitCode": "es",
+    "code": "ESP"
+  },
+  {
+    "Name": "Sweden",
+    "twoDigitCode": "se",
+    "code": "SWE"
+  },
+  {
+    "Name": "Switzerland",
+    "twoDigitCode": "ch",
+    "code": "CHE"
+  },
+  {
+    "Name": "Taiwan, Province of China",
+    "twoDigitCode": "tw",
+    "code": "TWN"
+  },
+  {
+    "Name": "Turkey",
+    "twoDigitCode": "tr",
+    "code": "TUR"
+  },
+  {
+    "Name": "United Kingdom",
+    "twoDigitCode": "gb",
+    "code": "GBR"
+  },
+  {
+    "Name": "United States",
+    "twoDigitCode": "us",
+    "code": "USA"
+  }
+]
