@@ -1,0 +1,282 @@
+[
+  {
+    "nace_code": "A01",
+    "industry": "Crop and animal production, hunting and related service activities",
+    "nace_industry": "A01|Crop and animal production, hunting and related service activities"
+  },
+  {
+    "nace_code": "A02",
+    "industry": "Forestry and logging",
+    "nace_industry": "A02|Forestry and logging"
+  },
+  {
+    "nace_code": "A03",
+    "industry": "Fishing and aquaculture",
+    "nace_industry": "A03|Fishing and aquaculture"
+  },
+  {
+    "nace_code": "B",
+    "industry": "Mining and quarrying",
+    "nace_industry": "B|Mining and quarrying"
+  },
+  {
+    "nace_code": "C10-C12",
+    "industry": "Manufacture of food products, beverages and tobacco products",
+    "nace_industry": "C10-C12|Manufacture of food products, beverages and tobacco products"
+  },
+  {
+    "nace_code": "C13-C15",
+    "industry": "Manufacture of textiles, wearing apparel and leather products",
+    "nace_industry": "C13-C15|Manufacture of textiles, wearing apparel and leather products"
+  },
+  {
+    "nace_code": "C16",
+    "industry": "Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials",
+    "nace_industry": "C16|Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+  },
+  {
+    "nace_code": "C17",
+    "industry": "Manufacture of paper and paper products",
+    "nace_industry": "C17|Manufacture of paper and paper products"
+  },
+  {
+    "nace_code": "C18",
+    "industry": "Printing and reproduction of recorded media",
+    "nace_industry": "C18|Printing and reproduction of recorded media"
+  },
+  {
+    "nace_code": "C19",
+    "industry": "Manufacture of coke and refined petroleum products",
+    "nace_industry": "C19|Manufacture of coke and refined petroleum products"
+  },
+  {
+    "nace_code": "C20",
+    "industry": "Manufacture of chemicals and chemical products",
+    "nace_industry": "C20|Manufacture of chemicals and chemical products"
+  },
+  {
+    "nace_code": "C21",
+    "industry": "Manufacture of basic pharmaceutical products and pharmaceutical preparations",
+    "nace_industry": "C21|Manufacture of basic pharmaceutical products and pharmaceutical preparations"
+  },
+  {
+    "nace_code": "C22",
+    "industry": "Manufacture of rubber and plastic products",
+    "nace_industry": "C22|Manufacture of rubber and plastic products"
+  },
+  {
+    "nace_code": "C23",
+    "industry": "Manufacture of other non-metallic mineral products",
+    "nace_industry": "C23|Manufacture of other non-metallic mineral products"
+  },
+  {
+    "nace_code": "C24",
+    "industry": "Manufacture of basic metals",
+    "nace_industry": "C24|Manufacture of basic metals"
+  },
+  {
+    "nace_code": "C25",
+    "industry": "Manufacture of fabricated metal products, except machinery and equipment",
+    "nace_industry": "C25|Manufacture of fabricated metal products, except machinery and equipment"
+  },
+  {
+    "nace_code": "C26",
+    "industry": "Manufacture of computer, electronic and optical products",
+    "nace_industry": "C26|Manufacture of computer, electronic and optical products"
+  },
+  {
+    "nace_code": "C27",
+    "industry": "Manufacture of electrical equipment",
+    "nace_industry": "C27|Manufacture of electrical equipment"
+  },
+  {
+    "nace_code": "C28",
+    "industry": "Manufacture of machinery and equipment n.e.c.",
+    "nace_industry": "C28|Manufacture of machinery and equipment n.e.c."
+  },
+  {
+    "nace_code": "C29",
+    "industry": "Manufacture of motor vehicles, trailers and semi-trailers",
+    "nace_industry": "C29|Manufacture of motor vehicles, trailers and semi-trailers"
+  },
+  {
+    "nace_code": "C30",
+    "industry": "Manufacture of other transport equipment",
+    "nace_industry": "C30|Manufacture of other transport equipment"
+  },
+  {
+    "nace_code": "C31_C32",
+    "industry": "Manufacture of furniture; other manufacturing",
+    "nace_industry": "C31_C32|Manufacture of furniture; other manufacturing"
+  },
+  {
+    "nace_code": "C33",
+    "industry": "Repair and installation of machinery and equipment",
+    "nace_industry": "C33|Repair and installation of machinery and equipment"
+  },
+  {
+    "nace_code": "D35",
+    "industry": "Electricity, gas, steam and air conditioning supply",
+    "nace_industry": "D35|Electricity, gas, steam and air conditioning supply"
+  },
+  {
+    "nace_code": "E36",
+    "industry": "Water collection, treatment and supply",
+    "nace_industry": "E36|Water collection, treatment and supply"
+  },
+  {
+    "nace_code": "E37-E39",
+    "industry": "Sewerage; waste collection, treatment and disposal activities; materials recovery; remediation activities and other waste management services",
+    "nace_industry": "E37-E39|Sewerage; waste collection, treatment and disposal activities; materials recovery; remediation activities and other waste management services"
+  },
+  {
+    "nace_code": "F",
+    "industry": "Construction",
+    "nace_industry": "F|Construction"
+  },
+  {
+    "nace_code": "G45",
+    "industry": "Wholesale and retail trade and repair of motor vehicles and motorcycles",
+    "nace_industry": "G45|Wholesale and retail trade and repair of motor vehicles and motorcycles"
+  },
+  {
+    "nace_code": "G46",
+    "industry": "Wholesale trade, except of motor vehicles and motorcycles",
+    "nace_industry": "G46|Wholesale trade, except of motor vehicles and motorcycles"
+  },
+  {
+    "nace_code": "G47",
+    "industry": "Retail trade, except of motor vehicles and motorcycles",
+    "nace_industry": "G47|Retail trade, except of motor vehicles and motorcycles"
+  },
+  {
+    "nace_code": "H49",
+    "industry": "Land transport and transport via pipelines",
+    "nace_industry": "H49|Land transport and transport via pipelines"
+  },
+  {
+    "nace_code": "H50",
+    "industry": "Water transport",
+    "nace_industry": "H50|Water transport"
+  },
+  {
+    "nace_code": "H51",
+    "industry": "Air transport",
+    "nace_industry": "H51|Air transport"
+  },
+  {
+    "nace_code": "H52",
+    "industry": "Warehousing and support activities for transportation",
+    "nace_industry": "H52|Warehousing and support activities for transportation"
+  },
+  {
+    "nace_code": "H53",
+    "industry": "Postal and courier activities",
+    "nace_industry": "H53|Postal and courier activities"
+  },
+  {
+    "nace_code": "I",
+    "industry": "Accommodation and food service activities",
+    "nace_industry": "I|Accommodation and food service activities"
+  },
+  {
+    "nace_code": "J58",
+    "industry": "Publishing activities",
+    "nace_industry": "J58|Publishing activities"
+  },
+  {
+    "nace_code": "J59_J60",
+    "industry": "Motion picture, video and television programme production, sound recording and music publishing activities; programming and broadcasting activities",
+    "nace_industry": "J59_J60|Motion picture, video and television programme production, sound recording and music publishing activities; programming and broadcasting activities"
+  },
+  {
+    "nace_code": "J61",
+    "industry": "Telecommunications",
+    "nace_industry": "J61|Telecommunications"
+  },
+  {
+    "nace_code": "J62_J63",
+    "industry": "Computer programming, consultancy and related activities; information service activities",
+    "nace_industry": "J62_J63|Computer programming, consultancy and related activities; information service activities"
+  },
+  {
+    "nace_code": "K64",
+    "industry": "Financial service activities, except insurance and pension funding",
+    "nace_industry": "K64|Financial service activities, except insurance and pension funding"
+  },
+  {
+    "nace_code": "K65",
+    "industry": "Insurance, reinsurance and pension funding, except compulsory social security",
+    "nace_industry": "K65|Insurance, reinsurance and pension funding, except compulsory social security"
+  },
+  {
+    "nace_code": "K66",
+    "industry": "Activities auxiliary to financial services and insurance activities",
+    "nace_industry": "K66|Activities auxiliary to financial services and insurance activities"
+  },
+  {
+    "nace_code": "L68",
+    "industry": "Real estate activities",
+    "nace_industry": "L68|Real estate activities"
+  },
+  {
+    "nace_code": "M69_M70",
+    "industry": "Legal and accounting activities; activities of head offices; management consultancy activities",
+    "nace_industry": "M69_M70|Legal and accounting activities; activities of head offices; management consultancy activities"
+  },
+  {
+    "nace_code": "M71",
+    "industry": "Architectural and engineering activities; technical testing and analysis",
+    "nace_industry": "M71|Architectural and engineering activities; technical testing and analysis"
+  },
+  {
+    "nace_code": "M72",
+    "industry": "Scientific research and development",
+    "nace_industry": "M72|Scientific research and development"
+  },
+  {
+    "nace_code": "M73",
+    "industry": "Advertising and market research",
+    "nace_industry": "M73|Advertising and market research"
+  },
+  {
+    "nace_code": "M74_M75",
+    "industry": "Other professional, scientific and technical activities; veterinary activities",
+    "nace_industry": "M74_M75|Other professional, scientific and technical activities; veterinary activities"
+  },
+  {
+    "nace_code": "N",
+    "industry": "Administrative and support service activities",
+    "nace_industry": "N|Administrative and support service activities"
+  },
+  {
+    "nace_code": "O84",
+    "industry": "Public administration and defence; compulsory social security",
+    "nace_industry": "O84|Public administration and defence; compulsory social security"
+  },
+  {
+    "nace_code": "P85",
+    "industry": "Education",
+    "nace_industry": "P85|Education"
+  },
+  {
+    "nace_code": "Q",
+    "industry": "Human health and social work activities",
+    "nace_industry": "Q|Human health and social work activities"
+  },
+  {
+    "nace_code": "R_S",
+    "industry": "Other service activities",
+    "nace_industry": "R_S|Other service activities"
+  },
+  {
+    "nace_code": "T",
+    "industry": "Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use",
+    "nace_industry": "T|Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use"
+  },
+  {
+    "nace_code": "U",
+    "industry": "Activities of extraterritorial organizations and bodies",
+    "nace_industry": "U|Activities of extraterritorial organizations and bodies"
+  }
+]
