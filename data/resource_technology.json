@@ -1,110 +1,110 @@
 [
-  {
-    "T1 (Category)": "Hardware/Data Center",
-    "T2 (Technology)": "",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "Network Infrastructure",
-    "T2 (Technology)": "",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "Business Applications",
-    "T2 (Technology)": "SAP",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "Manufacturing Captial Equipment",
-    "T2 (Technology)": "Lathes",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Drilling machines",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Milling machines",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Hobbing machines",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Honing machines",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Gear shapers",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Planer machines",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Grinding machines",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  },
-  {
-    "T1 (Category)": "",
-    "T2 (Technology)": "Broaching machines",
-    "SIC": "",
-    "Capability": "",
-    "Process": "",
-    "Brand": "",
-    "Value Driver": ""
-  }
+    {
+        "T1 (Category)":"Hardware\/Data Center",
+        "T2 (Technology)":null,
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":"Network Infrastructure",
+        "T2 (Technology)":null,
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":"Business Applications",
+        "T2 (Technology)":"SAP",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":"Manufacturing Captial Equipment",
+        "T2 (Technology)":"Lathes",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Drilling machines",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Milling machines",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Hobbing machines",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Honing machines",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Gear shapers",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Planer machines",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Grinding machines",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    },
+    {
+        "T1 (Category)":null,
+        "T2 (Technology)":"Broaching machines",
+        "SIC":null,
+        "Capability":null,
+        "Process":null,
+        "Brand":null,
+        "Value Driver":null
+    }
 ]
