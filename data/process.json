@@ -1,18 +1,18 @@
 [
-  {
-    "P1": "APQC Data",
-    "P1__1": "",
-    "Capability": "",
-    "Technology": "",
-    "Materials": "",
-    "People": ""
-  },
-  {
-    "P1": "SCORv12",
-    "P1__1": "",
-    "Capability": "",
-    "Technology": "",
-    "Materials": "",
-    "People": ""
-  }
+    {
+        "P1":"APQC Data",
+        "P1.1":null,
+        "Capability":null,
+        "Technology":null,
+        "Materials":null,
+        "People":null
+    },
+    {
+        "P1":"SCORv12",
+        "P1.1":null,
+        "Capability":null,
+        "Technology":null,
+        "Materials":null,
+        "People":null
+    }
 ]

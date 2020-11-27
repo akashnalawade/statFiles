@@ -1,401 +1,401 @@
 [
-  {
-    "L1 (Regulation Theme)": "Energy",
-    "L2 (Regulation)": "US Energy Policy Act",
-    "Jurisdiction": "USA",
-    "Regulator": "Gov",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Market Conduct",
-    "L2 (Regulation)": "Global FX Codes",
-    "Jurisdiction": "USA",
-    "Regulator": "FRB",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Global Best Execution Requirements",
-    "Jurisdiction": "",
-    "Regulator": "FINRA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Dodd Frank",
-    "Jurisdiction": "",
-    "Regulator": "CFPB",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Electronic Trading",
-    "Jurisdiction": "",
-    "Regulator": "CFTC",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "MiFID II",
-    "Jurisdiction": "",
-    "Regulator": "SEC",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "",
-    "Jurisdiction": "",
-    "Regulator": "OCC",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Information Protection",
-    "L2 (Regulation)": "GDPR",
-    "Jurisdiction": "",
-    "Regulator": "FDIC",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "NYDFS 500",
-    "Jurisdiction": "",
-    "Regulator": "ESMA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Reg P",
-    "Jurisdiction": "UK",
-    "Regulator": "FCA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "GLBA",
-    "Jurisdiction": "",
-    "Regulator": "PRA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "ANPR Advanced Notice for Cyber Risk Management",
-    "Jurisdiction": "HK",
-    "Regulator": "HKMA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "",
-    "Jurisdiction": "Japan",
-    "Regulator": "JFSA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Compliance Management",
-    "L2 (Regulation)": "Senior Manager Regimes",
-    "Jurisdiction": "",
-    "Regulator": "FED",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "SR 8-08",
-    "Jurisdiction": "",
-    "Regulator": "FinCEN",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "SR 8-09",
-    "Jurisdiction": "",
-    "Regulator": "NCUA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "MiFID II",
-    "Jurisdiction": "",
-    "Regulator": "NAIC",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "FED, SEC, FINRA, FCA Focus Areas",
-    "Jurisdiction": "",
-    "Regulator": "NFA",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Regulatory Reporting",
-    "L2 (Regulation)": "LOPR",
-    "Jurisdiction": "",
-    "Regulator": "Securities & Exchange Commission (SEC)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Form PF",
-    "Jurisdiction": "",
-    "Regulator": "Consumer Financial Protection Bureau (CFPB)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "FR Y-10",
-    "Jurisdiction": "",
-    "Regulator": "Federal Deposit Insurance Corporation (FDIC)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Risk Exposure Reports (FCM)",
-    "Jurisdiction": "",
-    "Regulator": "Financial Crimes Enforcement Network (FinCEN)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Disclosures",
-    "Jurisdiction": "",
-    "Regulator": "Financial Industry Regulatory Authority (FINRA)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Financial Crime",
-    "L2 (Regulation)": "Foreign Corrupt Practices Act",
-    "Jurisdiction": "",
-    "Regulator": "Office of the Comptroller of the Currency (OCC)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "EU 4th Money Laundering Directive",
-    "Jurisdiction": "",
-    "Regulator": "National Credit Union Administration (NCUA)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Anti-bribery and Corruption Acts",
-    "Jurisdiction": "",
-    "Regulator": "Consumer Financial Protection Bureau (CFPB)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "MAD/ MAR",
-    "Jurisdiction": "",
-    "Regulator": "National Association of Insurance Commissioners (NAIC)",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "FATCA",
-    "Jurisdiction": "",
-    "Regulator": "National Futures Association (NFA)[3]",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Consumer Protection",
-    "L2 (Regulation)": "Suitability",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Reg B, Reg C, Reg N, Reg O, Reg P, Reg V",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Investment Company Act",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "MiFID II",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "AIFMD/ UCITS/ PRIIPS",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Tax",
-    "L2 (Regulation)": "FATCA",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "CRS",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "871(m)",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "FTT",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Basel III Deferred Tax",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Risk & Capital Management",
-    "L2 (Regulation)": "CCAR",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Basel III",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "CRD IV + Harmonizing Basel RWAs & Stress Testing",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "Fundamental Review of Trading Book",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "BCBS 239",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "Liquidity",
-    "L2 (Regulation)": "EPS",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "LCR",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "NSFR",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "BCBS 248",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "PRA Pillar 2",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "ISO",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "DFARS",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "FDA",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "AUTO",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "DOD",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "AERO",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "MD",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "AIA",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  },
-  {
-    "L1 (Regulation Theme)": "",
-    "L2 (Regulation)": "UL",
-    "Jurisdiction": "",
-    "Regulator": "",
-    "Industry": ""
-  }
+    {
+        "L1 (Regulation Theme)":"Energy",
+        "L2 (Regulation)":"US Energy Policy Act",
+        "Jurisdiction":"USA",
+        "Regulator":"Gov",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Market Conduct",
+        "L2 (Regulation)":"Global FX Codes",
+        "Jurisdiction":"USA",
+        "Regulator":"FRB",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Global Best Execution Requirements",
+        "Jurisdiction":null,
+        "Regulator":"FINRA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Dodd Frank",
+        "Jurisdiction":null,
+        "Regulator":"CFPB",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Electronic Trading",
+        "Jurisdiction":null,
+        "Regulator":"CFTC",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"MiFID II",
+        "Jurisdiction":null,
+        "Regulator":"SEC",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":null,
+        "Jurisdiction":null,
+        "Regulator":"OCC",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Information Protection",
+        "L2 (Regulation)":"GDPR",
+        "Jurisdiction":null,
+        "Regulator":"FDIC",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"NYDFS 500",
+        "Jurisdiction":null,
+        "Regulator":"ESMA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Reg P",
+        "Jurisdiction":"UK",
+        "Regulator":"FCA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"GLBA",
+        "Jurisdiction":null,
+        "Regulator":"PRA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"ANPR Advanced Notice for Cyber Risk Management  ",
+        "Jurisdiction":"HK",
+        "Regulator":"HKMA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":null,
+        "Jurisdiction":"Japan",
+        "Regulator":"JFSA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Compliance Management",
+        "L2 (Regulation)":"Senior Manager Regimes",
+        "Jurisdiction":null,
+        "Regulator":"FED",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"SR 8-08",
+        "Jurisdiction":null,
+        "Regulator":"FinCEN",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"SR 8-09",
+        "Jurisdiction":null,
+        "Regulator":"NCUA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"MiFID II",
+        "Jurisdiction":null,
+        "Regulator":"NAIC",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"FED, SEC, FINRA, FCA Focus Areas",
+        "Jurisdiction":null,
+        "Regulator":"NFA",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Regulatory Reporting",
+        "L2 (Regulation)":"LOPR",
+        "Jurisdiction":null,
+        "Regulator":"Securities & Exchange Commission (SEC)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Form PF",
+        "Jurisdiction":null,
+        "Regulator":"Consumer Financial Protection Bureau (CFPB)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"FR Y-10",
+        "Jurisdiction":null,
+        "Regulator":"Federal Deposit Insurance Corporation (FDIC)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Risk Exposure Reports (FCM)",
+        "Jurisdiction":null,
+        "Regulator":"Financial Crimes Enforcement Network (FinCEN)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Disclosures",
+        "Jurisdiction":null,
+        "Regulator":"Financial Industry Regulatory Authority (FINRA)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Financial Crime",
+        "L2 (Regulation)":"Foreign Corrupt Practices Act",
+        "Jurisdiction":null,
+        "Regulator":"Office of the Comptroller of the Currency (OCC)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"EU 4th Money Laundering Directive",
+        "Jurisdiction":null,
+        "Regulator":"National Credit Union Administration (NCUA)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Anti-bribery and Corruption Acts",
+        "Jurisdiction":null,
+        "Regulator":"Consumer Financial Protection Bureau (CFPB)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"MAD\/ MAR",
+        "Jurisdiction":null,
+        "Regulator":"National Association of Insurance Commissioners (NAIC)",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"FATCA",
+        "Jurisdiction":null,
+        "Regulator":"National Futures Association (NFA)[3]",
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Consumer Protection",
+        "L2 (Regulation)":"Suitability",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Reg B, Reg C, Reg N, Reg O, Reg P, Reg V",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Investment Company Act",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"MiFID II",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"AIFMD\/ UCITS\/ PRIIPS",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Tax",
+        "L2 (Regulation)":"FATCA",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"CRS",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"871(m)",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"FTT",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Basel III Deferred Tax",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Risk & Capital Management",
+        "L2 (Regulation)":"CCAR",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Basel III",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"CRD IV + Harmonizing Basel RWAs & Stress Testing",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"Fundamental Review of Trading Book",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"BCBS 239",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":"Liquidity",
+        "L2 (Regulation)":"EPS",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"LCR",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"NSFR",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"BCBS 248",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"PRA Pillar 2",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"ISO",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"DFARS",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"FDA",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"AUTO",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"DOD",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"AERO",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"MD",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"AIA",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    },
+    {
+        "L1 (Regulation Theme)":null,
+        "L2 (Regulation)":"UL",
+        "Jurisdiction":null,
+        "Regulator":null,
+        "Industry":null
+    }
 ]
