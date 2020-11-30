@@ -1,7 +1,7 @@
 [
   {
     "Id": "C1",
-    "Company Name": "Caterpillar Inc",
+    "Company_Name": "Caterpillar Inc",
     "Level": "T0",
     "Parent": "",
     "Partner_Type": "Supplier",
@@ -18,7 +18,7 @@
   },
   {
     "Id": "C2",
-    "Company Name": "Perkins Engines Company Limited",
+    "Company_Name": "Perkins Engines Company Limited",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -35,7 +35,7 @@
   },
   {
     "Id": "C3",
-    "Company Name": "Caterpillar Logistics (Shanghai) Co",
+    "Company_Name": "Caterpillar Logistics (Shanghai) Co",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -52,7 +52,7 @@
   },
   {
     "Id": "C4",
-    "Company Name": "Caterpillar of Delaware Inc",
+    "Company_Name": "Caterpillar of Delaware Inc",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -69,7 +69,7 @@
   },
   {
     "Id": "C5",
-    "Company Name": "Wacker Neuson Linz Gmbh",
+    "Company_Name": "Wacker Neuson Linz Gmbh",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -86,7 +86,7 @@
   },
   {
     "Id": "C6",
-    "Company Name": "Caterpillar Paving Products Inc",
+    "Company_Name": "Caterpillar Paving Products Inc",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -103,7 +103,7 @@
   },
   {
     "Id": "C7",
-    "Company Name": "Caterpillar France Sa",
+    "Company_Name": "Caterpillar France Sa",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -120,7 +120,7 @@
   },
   {
     "Id": "C8",
-    "Company Name": "Caterpillar Africa Pty Ltd",
+    "Company_Name": "Caterpillar Africa Pty Ltd",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -137,7 +137,7 @@
   },
   {
     "Id": "C9",
-    "Company Name": "Caterpillar Suzhou Logistics",
+    "Company_Name": "Caterpillar Suzhou Logistics",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -154,7 +154,7 @@
   },
   {
     "Id": "C10",
-    "Company Name": "Mitsubishi Nichiyu Forklift Co.,Ltd",
+    "Company_Name": "Mitsubishi Nichiyu Forklift Co.,Ltd",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -171,7 +171,7 @@
   },
   {
     "Id": "C11",
-    "Company Name": "Caterpillar Americas Cv",
+    "Company_Name": "Caterpillar Americas Cv",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -188,7 +188,7 @@
   },
   {
     "Id": "C12",
-    "Company Name": "Caterpillar Global Mining Europe",
+    "Company_Name": "Caterpillar Global Mining Europe",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -205,7 +205,7 @@
   },
   {
     "Id": "C13",
-    "Company Name": "Asiatrak Tianjin Ltd.",
+    "Company_Name": "Asiatrak Tianjin Ltd.",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -222,7 +222,7 @@
   },
   {
     "Id": "C14",
-    "Company Name": "Caterpillar India Pvt Ltd",
+    "Company_Name": "Caterpillar India Pvt Ltd",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -239,7 +239,7 @@
   },
   {
     "Id": "C15",
-    "Company Name": "Caterpillar Reman Drivetrain",
+    "Company_Name": "Caterpillar Reman Drivetrain",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Importer",
@@ -256,7 +256,7 @@
   },
   {
     "Id": "C16",
-    "Company Name": "Metalurgica Peruana S.a.",
+    "Company_Name": "Metalurgica Peruana S.a.",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -273,7 +273,7 @@
   },
   {
     "Id": "C17",
-    "Company Name": "Caterpillar Materiels Routiers",
+    "Company_Name": "Caterpillar Materiels Routiers",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -290,7 +290,7 @@
   },
   {
     "Id": "C18",
-    "Company Name": "Caterpillar Hungary / Components",
+    "Company_Name": "Caterpillar Hungary / Components",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Importer",
@@ -307,7 +307,7 @@
   },
   {
     "Id": "C19",
-    "Company Name": "Caterpillar Belgium S a",
+    "Company_Name": "Caterpillar Belgium S a",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -324,7 +324,7 @@
   },
   {
     "Id": "C20",
-    "Company Name": "Caterpillar Brasil Comercio",
+    "Company_Name": "Caterpillar Brasil Comercio",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -341,7 +341,7 @@
   },
   {
     "Id": "C21",
-    "Company Name": "Caterpillar Wujiang Ltd",
+    "Company_Name": "Caterpillar Wujiang Ltd",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -358,7 +358,7 @@
   },
   {
     "Id": "C22",
-    "Company Name": "Caterpillar Work Tools",
+    "Company_Name": "Caterpillar Work Tools",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -375,7 +375,7 @@
   },
   {
     "Id": "C23",
-    "Company Name": "Caterpillar (China) Investment Co.,",
+    "Company_Name": "Caterpillar (China) Investment Co.,",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -392,7 +392,7 @@
   },
   {
     "Id": "C24",
-    "Company Name": "Caterpillar Undercarriage Xuzhou Co",
+    "Company_Name": "Caterpillar Undercarriage Xuzhou Co",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -409,7 +409,7 @@
   },
   {
     "Id": "C25",
-    "Company Name": "Caterpillar Torreon S De Rl De",
+    "Company_Name": "Caterpillar Torreon S De Rl De",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -426,7 +426,7 @@
   },
   {
     "Id": "C26",
-    "Company Name": "Caterpillar Distribution Services E",
+    "Company_Name": "Caterpillar Distribution Services E",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -443,7 +443,7 @@
   },
   {
     "Id": "C27",
-    "Company Name": "Perkins Motores Do Brasil Ltda",
+    "Company_Name": "Perkins Motores Do Brasil Ltda",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -460,7 +460,7 @@
   },
   {
     "Id": "C28",
-    "Company Name": "Caterpillar Overseas Sa",
+    "Company_Name": "Caterpillar Overseas Sa",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -477,7 +477,7 @@
   },
   {
     "Id": "C29",
-    "Company Name": "Caterpillar Tosno",
+    "Company_Name": "Caterpillar Tosno",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -494,7 +494,7 @@
   },
   {
     "Id": "C30",
-    "Company Name": "Caterpillar Japan Ltd.",
+    "Company_Name": "Caterpillar Japan Ltd.",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -511,7 +511,7 @@
   },
   {
     "Id": "C31",
-    "Company Name": "Caterpillar Precision Seals Korea",
+    "Company_Name": "Caterpillar Precision Seals Korea",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -528,7 +528,7 @@
   },
   {
     "Id": "C32",
-    "Company Name": "Caterpillar Services Limited",
+    "Company_Name": "Caterpillar Services Limited",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -545,7 +545,7 @@
   },
   {
     "Id": "C33",
-    "Company Name": "Caterpillar R&D Center China Co",
+    "Company_Name": "Caterpillar R&D Center China Co",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -562,7 +562,7 @@
   },
   {
     "Id": "C34",
-    "Company Name": "Caterpillar S.a.R.L.",
+    "Company_Name": "Caterpillar S.a.R.L.",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -579,7 +579,7 @@
   },
   {
     "Id": "C35",
-    "Company Name": "Caterpillar Remanufacturing",
+    "Company_Name": "Caterpillar Remanufacturing",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -596,7 +596,7 @@
   },
   {
     "Id": "C36",
-    "Company Name": "Caterpillar Shanghai Trading",
+    "Company_Name": "Caterpillar Shanghai Trading",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -613,7 +613,7 @@
   },
   {
     "Id": "C37",
-    "Company Name": "Caterpillar Sarl",
+    "Company_Name": "Caterpillar Sarl",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -630,7 +630,7 @@
   },
   {
     "Id": "C38",
-    "Company Name": "American Axle & Manufacturing D",
+    "Company_Name": "American Axle & Manufacturing D",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -647,7 +647,7 @@
   },
   {
     "Id": "C39",
-    "Company Name": "Donaldson Company, Inc. (NYSE:DCI)",
+    "Company_Name": "Donaldson Company, Inc. (NYSE:DCI)",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Strategic Alliance",
@@ -664,7 +664,7 @@
   },
   {
     "Id": "C40",
-    "Company Name": "Qsc Corp",
+    "Company_Name": "Qsc Corp",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -681,7 +681,7 @@
   },
   {
     "Id": "C41",
-    "Company Name": "Rocla Oy",
+    "Company_Name": "Rocla Oy",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -698,7 +698,7 @@
   },
   {
     "Id": "C42",
-    "Company Name": "Slr Elsterheide Gmbh",
+    "Company_Name": "Slr Elsterheide Gmbh",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -715,7 +715,7 @@
   },
   {
     "Id": "C43",
-    "Company Name": "Slr Giesserei St. Leon Rot Gmbh",
+    "Company_Name": "Slr Giesserei St. Leon Rot Gmbh",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -732,7 +732,7 @@
   },
   {
     "Id": "C44",
-    "Company Name": "Caterpillar Sa",
+    "Company_Name": "Caterpillar Sa",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -749,7 +749,7 @@
   },
   {
     "Id": "C45",
-    "Company Name": "Battlefield Equipment Rentals",
+    "Company_Name": "Battlefield Equipment Rentals",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Importer",
@@ -766,7 +766,7 @@
   },
   {
     "Id": "C46",
-    "Company Name": "Linamar Automotive Systems",
+    "Company_Name": "Linamar Automotive Systems",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -783,7 +783,7 @@
   },
   {
     "Id": "C47",
-    "Company Name": "RBC Bearings Incorporated (NasdaqGS:ROLL)",
+    "Company_Name": "RBC Bearings Incorporated (NasdaqGS:ROLL)",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Supplier",
@@ -800,7 +800,7 @@
   },
   {
     "Id": "C48",
-    "Company Name": "Louisiana Machinery Company Llc",
+    "Company_Name": "Louisiana Machinery Company Llc",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Importer",
@@ -813,11 +813,11 @@
     "NAICS_code": 423820,
     "NAICS_code_2 digit": 42,
     "Primary_Sector_sec": "Dummy Primary Sector (SEC)",
-    "Primary_Industry_sec": ""
+    "Primary_Industry_sec": "AB"
   },
   {
     "Id": "C49",
-    "Company Name": "Karl Senner Inc",
+    "Company_Name": "Karl Senner Inc",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Importer",
@@ -834,7 +834,7 @@
   },
   {
     "Id": "C50",
-    "Company Name": "Rimco (Barbados) Srl",
+    "Company_Name": "Rimco (Barbados) Srl",
     "Level": "T1",
     "Parent": "Caterpillar Inc",
     "Partner_Type": "Importer",
@@ -851,7 +851,7 @@
   },
   {
     "Id": "C51",
-    "Company Name": "Dummy_T2_1",
+    "Company_Name": "Dummy_T2_1",
     "Level": "T2",
     "Parent": "Perkins Engines Company Limited",
     "Partner_Type": "Supplier",
@@ -868,7 +868,7 @@
   },
   {
     "Id": "C52",
-    "Company Name": "Dummy_T2_2",
+    "Company_Name": "Dummy_T2_2",
     "Level": "T2",
     "Parent": "Perkins Engines Company Limited",
     "Partner_Type": "Supplier",
@@ -885,7 +885,7 @@
   },
   {
     "Id": "C53",
-    "Company Name": "Dummy_T2_3",
+    "Company_Name": "Dummy_T2_3",
     "Level": "T2",
     "Parent": "Caterpillar of Delaware Inc",
     "Partner_Type": "Supplier",
@@ -902,7 +902,7 @@
   },
   {
     "Id": "C54",
-    "Company Name": "Dummy_T2_4",
+    "Company_Name": "Dummy_T2_4",
     "Level": "T2",
     "Parent": "Wacker Neuson Linz Gmbh",
     "Partner_Type": "Supplier",
@@ -919,7 +919,7 @@
   },
   {
     "Id": "C55",
-    "Company Name": "Dummy_T2_5",
+    "Company_Name": "Dummy_T2_5",
     "Level": "T2",
     "Parent": "Caterpillar Paving Products Inc",
     "Partner_Type": "Supplier",
@@ -936,7 +936,7 @@
   },
   {
     "Id": "C56",
-    "Company Name": "Dummy_T2_6",
+    "Company_Name": "Dummy_T2_6",
     "Level": "T2",
     "Parent": "Caterpillar France Sa",
     "Partner_Type": "Supplier",
@@ -953,7 +953,7 @@
   },
   {
     "Id": "C57",
-    "Company Name": "Dummy_T2_7",
+    "Company_Name": "Dummy_T2_7",
     "Level": "T2",
     "Parent": "Caterpillar Africa Pty Ltd",
     "Partner_Type": "Supplier",
@@ -970,7 +970,7 @@
   },
   {
     "Id": "C58",
-    "Company Name": "Dummy_T2_8",
+    "Company_Name": "Dummy_T2_8",
     "Level": "T2",
     "Parent": "Caterpillar Suzhou Logistics",
     "Partner_Type": "Supplier",
@@ -987,7 +987,7 @@
   },
   {
     "Id": "C59",
-    "Company Name": "Dummy_T2_9",
+    "Company_Name": "Dummy_T2_9",
     "Level": "T2",
     "Parent": "Mitsubishi Nichiyu Forklift Co.,Ltd",
     "Partner_Type": "Supplier",
@@ -1004,7 +1004,7 @@
   },
   {
     "Id": "C60",
-    "Company Name": "Dummy_T2_10",
+    "Company_Name": "Dummy_T2_10",
     "Level": "T2",
     "Parent": "Caterpillar Americas Cv",
     "Partner_Type": "Supplier",
@@ -1021,7 +1021,7 @@
   },
   {
     "Id": "C61",
-    "Company Name": "Dummy_T2_11",
+    "Company_Name": "Dummy_T2_11",
     "Level": "T2",
     "Parent": "Caterpillar Global Mining Europe",
     "Partner_Type": "Supplier",
@@ -1038,7 +1038,7 @@
   },
   {
     "Id": "C62",
-    "Company Name": "Dummy_T2_12",
+    "Company_Name": "Dummy_T2_12",
     "Level": "T2",
     "Parent": "Asiatrak Tianjin Ltd.",
     "Partner_Type": "Supplier",
@@ -1055,7 +1055,7 @@
   },
   {
     "Id": "C63",
-    "Company Name": "Dummy_T2_13",
+    "Company_Name": "Dummy_T2_13",
     "Level": "T2",
     "Parent": "Caterpillar India Pvt Ltd",
     "Partner_Type": "Supplier",
@@ -1072,7 +1072,7 @@
   },
   {
     "Id": "C64",
-    "Company Name": "Dummy_T2_14",
+    "Company_Name": "Dummy_T2_14",
     "Level": "T2",
     "Parent": "Caterpillar Reman Drivetrain",
     "Partner_Type": "Supplier",
@@ -1089,7 +1089,7 @@
   },
   {
     "Id": "C65",
-    "Company Name": "Dummy_T2_15",
+    "Company_Name": "Dummy_T2_15",
     "Level": "T2",
     "Parent": "Metalurgica Peruana S.a.",
     "Partner_Type": "Importer",
@@ -1106,7 +1106,7 @@
   },
   {
     "Id": "C66",
-    "Company Name": "Dummy_T2_16",
+    "Company_Name": "Dummy_T2_16",
     "Level": "T2",
     "Parent": "Caterpillar Materiels Routiers",
     "Partner_Type": "Supplier",
@@ -1123,7 +1123,7 @@
   },
   {
     "Id": "C67",
-    "Company Name": "Dummy_T2_17",
+    "Company_Name": "Dummy_T2_17",
     "Level": "T2",
     "Parent": "Caterpillar Hungary / Components",
     "Partner_Type": "Supplier",
@@ -1140,7 +1140,7 @@
   },
   {
     "Id": "C68",
-    "Company Name": "Dummy_T2_18",
+    "Company_Name": "Dummy_T2_18",
     "Level": "T2",
     "Parent": "Caterpillar Belgium S a",
     "Partner_Type": "Importer",
@@ -1157,7 +1157,7 @@
   },
   {
     "Id": "C69",
-    "Company Name": "Dummy_T2_19",
+    "Company_Name": "Dummy_T2_19",
     "Level": "T2",
     "Parent": "Caterpillar Brasil Comercio",
     "Partner_Type": "Supplier",
@@ -1174,7 +1174,7 @@
   },
   {
     "Id": "C70",
-    "Company Name": "Dummy_T2_20",
+    "Company_Name": "Dummy_T2_20",
     "Level": "T2",
     "Parent": "Caterpillar Wujiang Ltd",
     "Partner_Type": "Supplier",
@@ -1191,7 +1191,7 @@
   },
   {
     "Id": "C71",
-    "Company Name": "Dummy_T2_21",
+    "Company_Name": "Dummy_T2_21",
     "Level": "T2",
     "Parent": "Caterpillar Work Tools",
     "Partner_Type": "Supplier",
@@ -1208,7 +1208,7 @@
   },
   {
     "Id": "C72",
-    "Company Name": "Dummy_T2_22",
+    "Company_Name": "Dummy_T2_22",
     "Level": "T2",
     "Parent": "Caterpillar (China) Investment Co.,",
     "Partner_Type": "Supplier",
@@ -1225,7 +1225,7 @@
   },
   {
     "Id": "C73",
-    "Company Name": "Dummy_T2_23",
+    "Company_Name": "Dummy_T2_23",
     "Level": "T2",
     "Parent": "Caterpillar Undercarriage Xuzhou Co",
     "Partner_Type": "Supplier",
@@ -1242,7 +1242,7 @@
   },
   {
     "Id": "C74",
-    "Company Name": "Dummy_T2_24",
+    "Company_Name": "Dummy_T2_24",
     "Level": "T2",
     "Parent": "Caterpillar Torreon S De Rl De",
     "Partner_Type": "Supplier",
@@ -1259,7 +1259,7 @@
   },
   {
     "Id": "C75",
-    "Company Name": "Dummy_T2_25",
+    "Company_Name": "Dummy_T2_25",
     "Level": "T2",
     "Parent": "Caterpillar Distribution Services E",
     "Partner_Type": "Supplier",
@@ -1276,7 +1276,7 @@
   },
   {
     "Id": "C76",
-    "Company Name": "Dummy_T2_26",
+    "Company_Name": "Dummy_T2_26",
     "Level": "T2",
     "Parent": "Perkins Motores Do Brasil Ltda",
     "Partner_Type": "Supplier",
@@ -1293,7 +1293,7 @@
   },
   {
     "Id": "C77",
-    "Company Name": "Dummy_T2_27",
+    "Company_Name": "Dummy_T2_27",
     "Level": "T2",
     "Parent": "Caterpillar Overseas Sa",
     "Partner_Type": "Supplier",
@@ -1310,7 +1310,7 @@
   },
   {
     "Id": "C78",
-    "Company Name": "Dummy_T2_28",
+    "Company_Name": "Dummy_T2_28",
     "Level": "T2",
     "Parent": "Caterpillar Tosno",
     "Partner_Type": "Supplier",
@@ -1327,7 +1327,7 @@
   },
   {
     "Id": "C79",
-    "Company Name": "Dummy_T2_29",
+    "Company_Name": "Dummy_T2_29",
     "Level": "T2",
     "Parent": "Caterpillar Japan Ltd.",
     "Partner_Type": "Supplier",
@@ -1344,7 +1344,7 @@
   },
   {
     "Id": "C80",
-    "Company Name": "Dummy_T2_30",
+    "Company_Name": "Dummy_T2_30",
     "Level": "T2",
     "Parent": "Caterpillar Precision Seals Korea",
     "Partner_Type": "Supplier",
@@ -1361,7 +1361,7 @@
   },
   {
     "Id": "C81",
-    "Company Name": "Dummy_T2_31",
+    "Company_Name": "Dummy_T2_31",
     "Level": "T2",
     "Parent": "Caterpillar Services Limited",
     "Partner_Type": "Supplier",
@@ -1378,7 +1378,7 @@
   },
   {
     "Id": "C82",
-    "Company Name": "Dummy_T2_32",
+    "Company_Name": "Dummy_T2_32",
     "Level": "T2",
     "Parent": "Caterpillar R&D Center China Co",
     "Partner_Type": "Supplier",
@@ -1395,7 +1395,7 @@
   },
   {
     "Id": "C83",
-    "Company Name": "Dummy_T2_33",
+    "Company_Name": "Dummy_T2_33",
     "Level": "T2",
     "Parent": "Caterpillar S.a.R.L.",
     "Partner_Type": "Supplier",
@@ -1412,7 +1412,7 @@
   },
   {
     "Id": "C84",
-    "Company Name": "Dummy_T2_34",
+    "Company_Name": "Dummy_T2_34",
     "Level": "T2",
     "Parent": "Caterpillar Remanufacturing",
     "Partner_Type": "Supplier",
@@ -1429,7 +1429,7 @@
   },
   {
     "Id": "C85",
-    "Company Name": "Dummy_T2_35",
+    "Company_Name": "Dummy_T2_35",
     "Level": "T2",
     "Parent": "Caterpillar Shanghai Trading",
     "Partner_Type": "Supplier",
@@ -1446,7 +1446,7 @@
   },
   {
     "Id": "C86",
-    "Company Name": "Dummy_T2_36",
+    "Company_Name": "Dummy_T2_36",
     "Level": "T2",
     "Parent": "Caterpillar Sarl",
     "Partner_Type": "Supplier",
@@ -1463,7 +1463,7 @@
   },
   {
     "Id": "C87",
-    "Company Name": "Dummy_T2_37",
+    "Company_Name": "Dummy_T2_37",
     "Level": "T2",
     "Parent": "American Axle & Manufacturing D",
     "Partner_Type": "Supplier",
@@ -1480,7 +1480,7 @@
   },
   {
     "Id": "C88",
-    "Company Name": "Dummy_T2_38",
+    "Company_Name": "Dummy_T2_38",
     "Level": "T2",
     "Parent": "Donaldson Company, Inc. (NYSE:DCI)",
     "Partner_Type": "Supplier",
@@ -1497,7 +1497,7 @@
   },
   {
     "Id": "C89",
-    "Company Name": "Dummy_T2_39",
+    "Company_Name": "Dummy_T2_39",
     "Level": "T2",
     "Parent": "Qsc Corp",
     "Partner_Type": "Strategic Alliance",
@@ -1514,7 +1514,7 @@
   },
   {
     "Id": "C90",
-    "Company Name": "Dummy_T2_40",
+    "Company_Name": "Dummy_T2_40",
     "Level": "T2",
     "Parent": "Rocla Oy",
     "Partner_Type": "Supplier",
@@ -1531,7 +1531,7 @@
   },
   {
     "Id": "C91",
-    "Company Name": "Dummy_T2_41",
+    "Company_Name": "Dummy_T2_41",
     "Level": "T2",
     "Parent": "Slr Elsterheide Gmbh",
     "Partner_Type": "Supplier",
@@ -1548,7 +1548,7 @@
   },
   {
     "Id": "C92",
-    "Company Name": "Dummy_T2_42",
+    "Company_Name": "Dummy_T2_42",
     "Level": "T2",
     "Parent": "Slr Giesserei St. Leon Rot Gmbh",
     "Partner_Type": "Supplier",
@@ -1565,7 +1565,7 @@
   },
   {
     "Id": "C93",
-    "Company Name": "Dummy_T2_43",
+    "Company_Name": "Dummy_T2_43",
     "Level": "T2",
     "Parent": "Caterpillar Sa",
     "Partner_Type": "Supplier",
@@ -1582,7 +1582,7 @@
   },
   {
     "Id": "C94",
-    "Company Name": "Dummy_T2_44",
+    "Company_Name": "Dummy_T2_44",
     "Level": "T2",
     "Parent": "Battlefield Equipment Rentals",
     "Partner_Type": "Supplier",
@@ -1599,7 +1599,7 @@
   },
   {
     "Id": "C95",
-    "Company Name": "Dummy_T2_45",
+    "Company_Name": "Dummy_T2_45",
     "Level": "T2",
     "Parent": "Linamar Automotive Systems",
     "Partner_Type": "Importer",
@@ -1616,7 +1616,7 @@
   },
   {
     "Id": "C96",
-    "Company Name": "Dummy_T2_46",
+    "Company_Name": "Dummy_T2_46",
     "Level": "T2",
     "Parent": "RBC Bearings Incorporated (NasdaqGS:ROLL)",
     "Partner_Type": "Supplier",
@@ -1633,7 +1633,7 @@
   },
   {
     "Id": "C97",
-    "Company Name": "Dummy_T2_47",
+    "Company_Name": "Dummy_T2_47",
     "Level": "T2",
     "Parent": "RBC Bearings Incorporated (NasdaqGS:ROLL)",
     "Partner_Type": "Supplier",
@@ -1650,7 +1650,7 @@
   },
   {
     "Id": "C98",
-    "Company Name": "Dummy_T2_48",
+    "Company_Name": "Dummy_T2_48",
     "Level": "T2",
     "Parent": "RBC Bearings Incorporated (NasdaqGS:ROLL)",
     "Partner_Type": "Importer",
@@ -1667,7 +1667,7 @@
   },
   {
     "Id": "C99",
-    "Company Name": "Dummy_T2_49",
+    "Company_Name": "Dummy_T2_49",
     "Level": "T2",
     "Parent": "RBC Bearings Incorporated (NasdaqGS:ROLL)",
     "Partner_Type": "Importer",
@@ -1684,7 +1684,7 @@
   },
   {
     "Id": "C100",
-    "Company Name": "Dummy_T2_50",
+    "Company_Name": "Dummy_T2_50",
     "Level": "T2",
     "Parent": "RBC Bearings Incorporated (NasdaqGS:ROLL)",
     "Partner_Type": "Importer",
